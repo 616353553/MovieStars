@@ -1,0 +1,5348 @@
+{
+  "movies": [
+    {
+      "movie_name": "Baby It's You",
+      "release_year": "1983",
+      "gross_value": "1867792"
+    },
+    {
+      "movie_name": "Firstborn",
+      "release_year": "1984",
+      "gross_value": "6200000"
+    },
+    {
+      "movie_name": "Tuff Turf",
+      "release_year": "1985",
+      "gross_value": "9369329"
+    },
+    {
+      "movie_name": "Girls Just Want to Have Fun",
+      "release_year": "1985",
+      "gross_value": "6326051"
+    },
+    {
+      "movie_name": "Weird Science",
+      "release_year": "1985",
+      "gross_value": "389100000"
+    },
+    {
+      "movie_name": "Back to School",
+      "release_year": "1986",
+      "gross_value": "91258000"
+    },
+    {
+      "movie_name": "The Pick-up Artist",
+      "release_year": "1987",
+      "gross_value": "13290368"
+    },
+    {
+      "movie_name": "Less Than Zero",
+      "release_year": "1987",
+      "gross_value": "124100000"
+    },
+    {
+      "movie_name": "Johnny Be Good",
+      "release_year": "1988",
+      "gross_value": "17550399"
+    },
+    {
+      "movie_name": "1969",
+      "release_year": "1988",
+      "gross_value": "5979011"
+    },
+    {
+      "movie_name": "True Believer",
+      "release_year": "1989",
+      "gross_value": "87100000"
+    },
+    {
+      "movie_name": "Chances Are",
+      "release_year": "1989",
+      "gross_value": "16278590"
+    },
+    {
+      "movie_name": "Air America",
+      "release_year": "1990",
+      "gross_value": "57718089"
+    },
+    {
+      "movie_name": "Soapdish",
+      "release_year": "1991",
+      "gross_value": "36489888"
+    },
+    {
+      "movie_name": "Chaplin",
+      "release_year": "1992",
+      "gross_value": "95100000"
+    },
+    {
+      "movie_name": "Heart and Souls",
+      "release_year": "1993",
+      "gross_value": "165100000"
+    },
+    {
+      "movie_name": "Short Cuts",
+      "release_year": "1993",
+      "gross_value": "6110979"
+    },
+    {
+      "movie_name": "Natural Born Killers",
+      "release_year": "1994",
+      "gross_value": "503100000"
+    },
+    {
+      "movie_name": "Only You",
+      "release_year": "1994",
+      "gross_value": "201100000"
+    },
+    {
+      "movie_name": "Richard III",
+      "release_year": "1995",
+      "gross_value": "2684904"
+    },
+    {
+      "movie_name": "Home for the Holidays",
+      "release_year": "1995",
+      "gross_value": "175100000"
+    },
+    {
+      "movie_name": "Restoration",
+      "release_year": "1995",
+      "gross_value": "4100000"
+    },
+    {
+      "movie_name": "One Night Stand",
+      "release_year": "1997",
+      "gross_value": "26100000"
+    },
+    {
+      "movie_name": "Two Girls and a Guy",
+      "release_year": "1997",
+      "gross_value": "2057193"
+    },
+    {
+      "movie_name": "Hugo Pool",
+      "release_year": "1997",
+      "gross_value": "13330"
+    },
+    {
+      "movie_name": "The Gingerbread Man",
+      "release_year": "1998",
+      "gross_value": "1534569"
+    },
+    {
+      "movie_name": "U.S. Marshals",
+      "release_year": "1998",
+      "gross_value": "1024100000"
+    },
+    {
+      "movie_name": "In Dreams",
+      "release_year": "1999",
+      "gross_value": "12100000"
+    },
+    {
+      "movie_name": "Friends & Lovers",
+      "release_year": "1999",
+      "gross_value": "33543"
+    },
+    {
+      "movie_name": "Bowfinger",
+      "release_year": "1999",
+      "gross_value": "986100000"
+    },
+    {
+      "movie_name": "Black and White",
+      "release_year": "1999",
+      "gross_value": "5100000"
+    },
+    {
+      "movie_name": "Wonder Boys",
+      "release_year": "2000",
+      "gross_value": "334100000"
+    },
+    {
+      "movie_name": "The Singing Detective",
+      "release_year": "2003",
+      "gross_value": "337174"
+    },
+    {
+      "movie_name": "Gothika",
+      "release_year": "2003",
+      "gross_value": "1416100000"
+    },
+    {
+      "movie_name": "Eros",
+      "release_year": "2004",
+      "gross_value": "1535829"
+    },
+    {
+      "movie_name": "Game 6",
+      "release_year": "2005",
+      "gross_value": "129664"
+    },
+    {
+      "movie_name": "Kiss Kiss Bang Bang",
+      "release_year": "2005",
+      "gross_value": "158100000"
+    },
+    {
+      "movie_name": "Good Night, and Good Luck",
+      "release_year": "2005",
+      "gross_value": "565100000"
+    },
+    {
+      "movie_name": "A Guide to Recognizing Your Saints",
+      "release_year": "2006",
+      "gross_value": "2035468"
+    },
+    {
+      "movie_name": "The Shaggy Dog",
+      "release_year": "2006",
+      "gross_value": "871100000"
+    },
+    {
+      "movie_name": "A Scanner Darkly",
+      "release_year": "2006",
+      "gross_value": "77100000"
+    },
+    {
+      "movie_name": "Fur",
+      "release_year": "2006",
+      "gross_value": "23100000"
+    },
+    {
+      "movie_name": "Zodiac",
+      "release_year": "2007",
+      "gross_value": "848100000"
+    },
+    {
+      "movie_name": "Lucky You",
+      "release_year": "2007",
+      "gross_value": "8382477"
+    },
+    {
+      "movie_name": "Charlie Bartlett",
+      "release_year": "2008",
+      "gross_value": "52100000"
+    },
+    {
+      "movie_name": "Iron Man",
+      "release_year": "2008",
+      "gross_value": "5852100000"
+    },
+    {
+      "movie_name": "The Incredible Hulk",
+      "release_year": "2008",
+      "gross_value": "2634100000"
+    },
+    {
+      "movie_name": "Tropic Thunder",
+      "release_year": "2008",
+      "gross_value": "1881100000"
+    },
+    {
+      "movie_name": "The Soloist",
+      "release_year": "2009",
+      "gross_value": "383100000"
+    },
+    {
+      "movie_name": "Sherlock Holmes",
+      "release_year": "2009",
+      "gross_value": "524100000"
+    },
+    {
+      "movie_name": "Iron Man 2",
+      "release_year": "2010",
+      "gross_value": "6239100000"
+    },
+    {
+      "movie_name": "Due Date",
+      "release_year": "2010",
+      "gross_value": "2118100000"
+    },
+    {
+      "movie_name": "Sherlock Holmes: A Game of Shadows",
+      "release_year": "2011",
+      "gross_value": "5454100000"
+    },
+    {
+      "movie_name": "The Avengers",
+      "release_year": "2012",
+      "gross_value": "1519100000000"
+    },
+    {
+      "movie_name": "Iron Man 3",
+      "release_year": "2013",
+      "gross_value": "1215100000000"
+    },
+    {
+      "movie_name": "Chef",
+      "release_year": "2014",
+      "gross_value": "46100000"
+    },
+    {
+      "movie_name": "The Judge",
+      "release_year": "2014",
+      "gross_value": "844100000"
+    },
+    {
+      "movie_name": "Avengers: Age of Ultron",
+      "release_year": "2015",
+      "gross_value": "1405100000000"
+    },
+    {
+      "movie_name": "Captain America:Civil War",
+      "release_year": "2016",
+      "gross_value": "1153100000000"
+    },
+    {
+      "movie_name": "Spider-Man: Homecoming",
+      "release_year": "2017",
+      "gross_value": "8802100000"
+    },
+    {
+      "movie_name": "Avengers: Infinity War",
+      "release_year": "2018",
+      "gross_value": "2048100000000"
+    },
+    {
+      "movie_name": "More American Graffiti",
+      "release_year": "1979",
+      "gross_value": "815100000"
+    },
+    {
+      "movie_name": "S.O.B.",
+      "release_year": "1981",
+      "gross_value": "148100000"
+    },
+    {
+      "movie_name": "The Aviator",
+      "release_year": "1985",
+      "gross_value": "1304192"
+    },
+    {
+      "movie_name": "Desperately Seeking Susan",
+      "release_year": "1985",
+      "gross_value": "27398584"
+    },
+    {
+      "movie_name": "Silverado",
+      "release_year": "1985",
+      "gross_value": "32192570"
+    },
+    {
+      "movie_name": "After Hours",
+      "release_year": "1985",
+      "gross_value": "106100000"
+    },
+    {
+      "movie_name": "8 Million Ways to Die",
+      "release_year": "1986",
+      "gross_value": "1305114"
+    },
+    {
+      "movie_name": "Nobody's Fool",
+      "release_year": "1986",
+      "gross_value": "563358"
+    },
+    {
+      "movie_name": "Amazon Women on the Moon",
+      "release_year": "1987",
+      "gross_value": "548696"
+    },
+    {
+      "movie_name": "The Big Blue",
+      "release_year": "1988",
+      "gross_value": "4100000"
+    },
+    {
+      "movie_name": "New York Stories",
+      "release_year": "1989",
+      "gross_value": "107100000"
+    },
+    {
+      "movie_name": "Flight of the Intruder",
+      "release_year": "1991",
+      "gross_value": "14587732"
+    },
+    {
+      "movie_name": "Nowhere to Run",
+      "release_year": "1993",
+      "gross_value": "522100000"
+    },
+    {
+      "movie_name": "Pulp Fiction",
+      "release_year": "1994",
+      "gross_value": "2139100000"
+    },
+    {
+      "movie_name": "La Cit\u00e9 de la peur",
+      "release_year": "1994",
+      "gross_value": "16623270"
+    },
+    {
+      "movie_name": "Search and Destroy",
+      "release_year": "1995",
+      "gross_value": "389503"
+    },
+    {
+      "movie_name": "Crash",
+      "release_year": "1996",
+      "gross_value": "232100000"
+    },
+    {
+      "movie_name": "Gone Fishin'",
+      "release_year": "1997",
+      "gross_value": "19745922"
+    },
+    {
+      "movie_name": "Deceiver",
+      "release_year": "1997",
+      "gross_value": "572433"
+    },
+    {
+      "movie_name": "Buffalo '66",
+      "release_year": "1998",
+      "gross_value": "24100000"
+    },
+    {
+      "movie_name": "Hope Floats",
+      "release_year": "1998",
+      "gross_value": "81471882"
+    },
+    {
+      "movie_name": "Hell's Kitchen",
+      "release_year": "1998",
+      "gross_value": "22513"
+    },
+    {
+      "movie_name": "I'm Losing You",
+      "release_year": "1998",
+      "gross_value": "13996"
+    },
+    {
+      "movie_name": "Sugar Town",
+      "release_year": "1999",
+      "gross_value": "178095"
+    },
+    {
+      "movie_name": "The Whole Nine Yards",
+      "release_year": "2000",
+      "gross_value": "1064100000"
+    },
+    {
+      "movie_name": "Joe Dirt",
+      "release_year": "2001",
+      "gross_value": "31100000"
+    },
+    {
+      "movie_name": "Big Bad Love",
+      "release_year": "2001",
+      "gross_value": "104294"
+    },
+    {
+      "movie_name": "Kids in America",
+      "release_year": "2005",
+      "gross_value": "537667"
+    },
+    {
+      "movie_name": "Battle for Terra",
+      "release_year": "2007",
+      "gross_value": "61100000"
+    },
+    {
+      "movie_name": "American Pie Presents: The Book of Love",
+      "release_year": "2009",
+      "gross_value": "5021219"
+    },
+    {
+      "movie_name": "Inhale",
+      "release_year": "2010",
+      "gross_value": "55089"
+    },
+    {
+      "movie_name": "The Divide",
+      "release_year": "2011",
+      "gross_value": "130839"
+    },
+    {
+      "movie_name": "Peace, Love & Misunderstanding",
+      "release_year": "2011",
+      "gross_value": "542762"
+    },
+    {
+      "movie_name": "Draft Day",
+      "release_year": "2014",
+      "gross_value": "295100000"
+    },
+    {
+      "movie_name": "Kill Your Friends",
+      "release_year": "2015",
+      "gross_value": "420091"
+    },
+    {
+      "movie_name": "Frank & Lola",
+      "release_year": "2016",
+      "gross_value": "9188"
+    },
+    {
+      "movie_name": "Lovesong",
+      "release_year": "2016",
+      "gross_value": "10626"
+    },
+    {
+      "movie_name": "Billionaire Boys Club",
+      "release_year": "2018",
+      "gross_value": "22100000"
+    },
+    {
+      "movie_name": "Butch and Sundance: The Early Days",
+      "release_year": "1979",
+      "gross_value": "5136913"
+    },
+    {
+      "movie_name": "Just Tell Me What You Want",
+      "release_year": "1980",
+      "gross_value": "2086905"
+    },
+    {
+      "movie_name": "Shoot the Moon",
+      "release_year": "1982",
+      "gross_value": "92100000"
+    },
+    {
+      "movie_name": "Of Unknown Origin",
+      "release_year": "1983",
+      "gross_value": "1080470"
+    },
+    {
+      "movie_name": "The Adventures of Buckaroo Banzai Across the 8th Dimension",
+      "release_year": "1984",
+      "gross_value": "63100000"
+    },
+    {
+      "movie_name": "A Killing Affair",
+      "release_year": "1986",
+      "gross_value": "35000"
+    },
+    {
+      "movie_name": "RoboCop",
+      "release_year": "1987",
+      "gross_value": "534100000"
+    },
+    {
+      "movie_name": "Shakedown",
+      "release_year": "1988",
+      "gross_value": "10068039"
+    },
+    {
+      "movie_name": "Leviathan",
+      "release_year": "1989",
+      "gross_value": "15704614"
+    },
+    {
+      "movie_name": "RoboCop 2",
+      "release_year": "1990",
+      "gross_value": "457100000"
+    },
+    {
+      "movie_name": "Naked Lunch",
+      "release_year": "1991",
+      "gross_value": "26100000"
+    },
+    {
+      "movie_name": "The New Age",
+      "release_year": "1994",
+      "gross_value": "245217"
+    },
+    {
+      "movie_name": "Beyond the Clouds",
+      "release_year": "1995",
+      "gross_value": "325200031738"
+    },
+    {
+      "movie_name": "Screamers",
+      "release_year": "1995",
+      "gross_value": "5711695"
+    },
+    {
+      "movie_name": "Mighty Aphrodite",
+      "release_year": "1995",
+      "gross_value": "26100000"
+    },
+    {
+      "movie_name": "Shadow Hours",
+      "release_year": "2000",
+      "gross_value": "38181"
+    },
+    {
+      "movie_name": "Ivans Xtc",
+      "release_year": "2000",
+      "gross_value": "47027"
+    },
+    {
+      "movie_name": "The Order",
+      "release_year": "2003",
+      "gross_value": "11560806"
+    },
+    {
+      "movie_name": "Star Trek Into Darkness",
+      "release_year": "2013",
+      "gross_value": "4674100000"
+    },
+    {
+      "movie_name": "Skin Trade",
+      "release_year": "2015",
+      "gross_value": "384000"
+    },
+    {
+      "movie_name": "The Manhattan Project",
+      "release_year": "1986",
+      "gross_value": "3900000"
+    },
+    {
+      "movie_name": "Endless Love",
+      "release_year": "1981",
+      "gross_value": "32492674"
+    },
+    {
+      "movie_name": "The New Kids",
+      "release_year": "1985",
+      "gross_value": "199108"
+    },
+    {
+      "movie_name": "Pretty in Pink",
+      "release_year": "1986",
+      "gross_value": "404100000"
+    },
+    {
+      "movie_name": "Mannequin",
+      "release_year": "1987",
+      "gross_value": "427100000"
+    },
+    {
+      "movie_name": "Baby Boom",
+      "release_year": "1987",
+      "gross_value": "26100000"
+    },
+    {
+      "movie_name": "Wall Street",
+      "release_year": "1987",
+      "gross_value": "439100000"
+    },
+    {
+      "movie_name": "Jack's Back",
+      "release_year": "1988",
+      "gross_value": "492519"
+    },
+    {
+      "movie_name": "Sex, Lies, and Videotape",
+      "release_year": "1989",
+      "gross_value": "367100000"
+    },
+    {
+      "movie_name": "The Rachel Papers",
+      "release_year": "1989",
+      "gross_value": "201468"
+    },
+    {
+      "movie_name": "Bad Influence",
+      "release_year": "1990",
+      "gross_value": "12626043"
+    },
+    {
+      "movie_name": "White Palace",
+      "release_year": "1990",
+      "gross_value": "17487531"
+    },
+    {
+      "movie_name": "True Colors",
+      "release_year": "1991",
+      "gross_value": "418807"
+    },
+    {
+      "movie_name": "Storyville",
+      "release_year": "1992",
+      "gross_value": "422503"
+    },
+    {
+      "movie_name": "Bob Roberts",
+      "release_year": "1992",
+      "gross_value": "45100000"
+    },
+    {
+      "movie_name": "Dream Lover",
+      "release_year": "1993",
+      "gross_value": "256264"
+    },
+    {
+      "movie_name": "Wolf",
+      "release_year": "1994",
+      "gross_value": "131100000"
+    },
+    {
+      "movie_name": "Stargate",
+      "release_year": "1994",
+      "gross_value": "1966100000"
+    },
+    {
+      "movie_name": "2 Days in the Valley",
+      "release_year": "1996",
+      "gross_value": "11132900"
+    },
+    {
+      "movie_name": "Keys to Tulsa",
+      "release_year": "1996",
+      "gross_value": "57252"
+    },
+    {
+      "movie_name": "Critical Care",
+      "release_year": "1997",
+      "gross_value": "271000"
+    },
+    {
+      "movie_name": "Supernova",
+      "release_year": "2000",
+      "gross_value": "148100000"
+    },
+    {
+      "movie_name": "The Watcher",
+      "release_year": "2000",
+      "gross_value": "473100000"
+    },
+    {
+      "movie_name": "Secretary",
+      "release_year": "2002",
+      "gross_value": "93100000"
+    },
+    {
+      "movie_name": "Shorts",
+      "release_year": "2009",
+      "gross_value": "29100000"
+    },
+    {
+      "movie_name": "Lincoln",
+      "release_year": "2012",
+      "gross_value": "2753100000"
+    },
+    {
+      "movie_name": "The Homesman",
+      "release_year": "2014",
+      "gross_value": "344100000"
+    }
+  ],
+  "actors": [
+    {
+      "actor_name": "Robert Downey Jr.",
+      "birth_year": "Unknown"
+    },
+    {
+      "actor_name": "Rosanna Arquette",
+      "birth_year": "1959"
+    },
+    {
+      "actor_name": "Peter Weller",
+      "birth_year": "1947"
+    },
+    {
+      "actor_name": "Christopher Collet",
+      "birth_year": "1968"
+    },
+    {
+      "actor_name": "James Spader",
+      "birth_year": "1960"
+    }
+  ],
+  "starrings": [
+    {
+      "actor_name": "Rosanna Arquette",
+      "movie_name": "Baby It's You",
+      "weight": 2
+    },
+    {
+      "actor_name": "Vincent Spano",
+      "movie_name": "Baby It's You",
+      "weight": 1
+    },
+    {
+      "actor_name": "Teri Garr",
+      "movie_name": "Firstborn",
+      "weight": 3
+    },
+    {
+      "actor_name": "Peter Weller",
+      "movie_name": "Firstborn",
+      "weight": 2
+    },
+    {
+      "actor_name": "Christopher Collet",
+      "movie_name": "Firstborn",
+      "weight": 1
+    },
+    {
+      "actor_name": "James Spader",
+      "movie_name": "Tuff Turf",
+      "weight": 2
+    },
+    {
+      "actor_name": "Kim Richards",
+      "movie_name": "Tuff Turf",
+      "weight": 1
+    },
+    {
+      "actor_name": "Sarah Jessica Parker",
+      "movie_name": "Girls Just Want to Have Fun",
+      "weight": 6
+    },
+    {
+      "actor_name": "Lee Montgomery",
+      "movie_name": "Girls Just Want to Have Fun",
+      "weight": 5
+    },
+    {
+      "actor_name": "Morgan Woodward",
+      "movie_name": "Girls Just Want to Have Fun",
+      "weight": 4
+    },
+    {
+      "actor_name": "Jonathan Silverman",
+      "movie_name": "Girls Just Want to Have Fun",
+      "weight": 3
+    },
+    {
+      "actor_name": "Shannen Doherty",
+      "movie_name": "Girls Just Want to Have Fun",
+      "weight": 2
+    },
+    {
+      "actor_name": "Helen Hunt",
+      "movie_name": "Girls Just Want to Have Fun",
+      "weight": 1
+    },
+    {
+      "actor_name": "Anthony Michael Hall",
+      "movie_name": "Weird Science",
+      "weight": 3
+    },
+    {
+      "actor_name": "Ilan Mitchell-Smith",
+      "movie_name": "Weird Science",
+      "weight": 2
+    },
+    {
+      "actor_name": "Kelly LeBrock",
+      "movie_name": "Weird Science",
+      "weight": 1
+    },
+    {
+      "actor_name": "Sally Kellerman",
+      "movie_name": "Back to School",
+      "weight": 7
+    },
+    {
+      "actor_name": "Burt Young",
+      "movie_name": "Back to School",
+      "weight": 6
+    },
+    {
+      "actor_name": "Keith Gordon",
+      "movie_name": "Back to School",
+      "weight": 5
+    },
+    {
+      "actor_name": "Adrienne Barbeau",
+      "movie_name": "Back to School",
+      "weight": 4
+    },
+    {
+      "actor_name": "Robert Downey Jr.",
+      "movie_name": "Back to School",
+      "weight": 3
+    },
+    {
+      "actor_name": "Sam Kinison",
+      "movie_name": "Back to School",
+      "weight": 2
+    },
+    {
+      "actor_name": "Ned Beatty",
+      "movie_name": "Back to School",
+      "weight": 1
+    },
+    {
+      "actor_name": "Molly Ringwald",
+      "movie_name": "The Pick-up Artist",
+      "weight": 5
+    },
+    {
+      "actor_name": "Robert Downey",
+      "movie_name": "The Pick-up Artist",
+      "weight": 4
+    },
+    {
+      "actor_name": "Dennis Hopper",
+      "movie_name": "The Pick-up Artist",
+      "weight": 3
+    },
+    {
+      "actor_name": "Danny Aiello",
+      "movie_name": "The Pick-up Artist",
+      "weight": 2
+    },
+    {
+      "actor_name": "Harvey Keitel",
+      "movie_name": "The Pick-up Artist",
+      "weight": 1
+    },
+    {
+      "actor_name": "Andrew McCarthy",
+      "movie_name": "Less Than Zero",
+      "weight": 3
+    },
+    {
+      "actor_name": "Jami Gertz",
+      "movie_name": "Less Than Zero",
+      "weight": 2
+    },
+    {
+      "actor_name": "Robert Downey Jr.",
+      "movie_name": "Less Than Zero",
+      "weight": 1
+    },
+    {
+      "actor_name": "Anthony Michael Hall",
+      "movie_name": "Johnny Be Good",
+      "weight": 3
+    },
+    {
+      "actor_name": "Robert Downey Jr.",
+      "movie_name": "Johnny Be Good",
+      "weight": 2
+    },
+    {
+      "actor_name": "Paul Gleason",
+      "movie_name": "Johnny Be Good",
+      "weight": 1
+    },
+    {
+      "actor_name": "Robert Downey Jr.",
+      "movie_name": "1969",
+      "weight": 6
+    },
+    {
+      "actor_name": "Kiefer Sutherland",
+      "movie_name": "1969",
+      "weight": 5
+    },
+    {
+      "actor_name": "Bruce Dern",
+      "movie_name": "1969",
+      "weight": 4
+    },
+    {
+      "actor_name": "Mariette Hartley",
+      "movie_name": "1969",
+      "weight": 3
+    },
+    {
+      "actor_name": "Winona Ryder",
+      "movie_name": "1969",
+      "weight": 2
+    },
+    {
+      "actor_name": "Joanna Cassidy",
+      "movie_name": "1969",
+      "weight": 1
+    },
+    {
+      "actor_name": "James Woods",
+      "movie_name": "True Believer",
+      "weight": 5
+    },
+    {
+      "actor_name": "Robert Downey Jr.",
+      "movie_name": "True Believer",
+      "weight": 4
+    },
+    {
+      "actor_name": "Yuji Okumoto",
+      "movie_name": "True Believer",
+      "weight": 3
+    },
+    {
+      "actor_name": "Margaret Colin",
+      "movie_name": "True Believer",
+      "weight": 2
+    },
+    {
+      "actor_name": "Kurtwood Smith",
+      "movie_name": "True Believer",
+      "weight": 1
+    },
+    {
+      "actor_name": "Cybill Shepherd",
+      "movie_name": "Chances Are",
+      "weight": 4
+    },
+    {
+      "actor_name": "Robert Downey Jr.",
+      "movie_name": "Chances Are",
+      "weight": 3
+    },
+    {
+      "actor_name": "Ryan O'Neal",
+      "movie_name": "Chances Are",
+      "weight": 2
+    },
+    {
+      "actor_name": "Mary Stuart Masterson",
+      "movie_name": "Chances Are",
+      "weight": 1
+    },
+    {
+      "actor_name": "Mel Gibson",
+      "movie_name": "Air America",
+      "weight": 5
+    },
+    {
+      "actor_name": "Robert Downey Jr.",
+      "movie_name": "Air America",
+      "weight": 4
+    },
+    {
+      "actor_name": "Nancy Travis",
+      "movie_name": "Air America",
+      "weight": 3
+    },
+    {
+      "actor_name": "David Marshall Grant",
+      "movie_name": "Air America",
+      "weight": 2
+    },
+    {
+      "actor_name": "Lane Smith",
+      "movie_name": "Air America",
+      "weight": 1
+    },
+    {
+      "actor_name": "Sally Field",
+      "movie_name": "Soapdish",
+      "weight": 7
+    },
+    {
+      "actor_name": "Kevin Kline",
+      "movie_name": "Soapdish",
+      "weight": 6
+    },
+    {
+      "actor_name": "Robert Downey Jr.",
+      "movie_name": "Soapdish",
+      "weight": 5
+    },
+    {
+      "actor_name": "Cathy Moriarty",
+      "movie_name": "Soapdish",
+      "weight": 4
+    },
+    {
+      "actor_name": "Whoopi Goldberg",
+      "movie_name": "Soapdish",
+      "weight": 3
+    },
+    {
+      "actor_name": "Elisabeth Shue",
+      "movie_name": "Soapdish",
+      "weight": 2
+    },
+    {
+      "actor_name": "Carrie Fisher",
+      "movie_name": "Soapdish",
+      "weight": 1
+    },
+    {
+      "actor_name": "Robert Downey Jr.",
+      "movie_name": "Chaplin",
+      "weight": 15
+    },
+    {
+      "actor_name": "Dan Aykroyd",
+      "movie_name": "Chaplin",
+      "weight": 14
+    },
+    {
+      "actor_name": "Geraldine Chaplin",
+      "movie_name": "Chaplin",
+      "weight": 13
+    },
+    {
+      "actor_name": "Kevin Dunn",
+      "movie_name": "Chaplin",
+      "weight": 12
+    },
+    {
+      "actor_name": "Anthony Hopkins",
+      "movie_name": "Chaplin",
+      "weight": 11
+    },
+    {
+      "actor_name": "Milla Jovovich",
+      "movie_name": "Chaplin",
+      "weight": 10
+    },
+    {
+      "actor_name": "Moira Kelly",
+      "movie_name": "Chaplin",
+      "weight": 9
+    },
+    {
+      "actor_name": "Kevin Kline",
+      "movie_name": "Chaplin",
+      "weight": 8
+    },
+    {
+      "actor_name": "Diane Lane",
+      "movie_name": "Chaplin",
+      "weight": 7
+    },
+    {
+      "actor_name": "Penelope Ann Miller",
+      "movie_name": "Chaplin",
+      "weight": 6
+    },
+    {
+      "actor_name": "Paul Rhys",
+      "movie_name": "Chaplin",
+      "weight": 5
+    },
+    {
+      "actor_name": "John Thaw",
+      "movie_name": "Chaplin",
+      "weight": 4
+    },
+    {
+      "actor_name": "Marisa Tomei",
+      "movie_name": "Chaplin",
+      "weight": 3
+    },
+    {
+      "actor_name": "Nancy Travis",
+      "movie_name": "Chaplin",
+      "weight": 2
+    },
+    {
+      "actor_name": "James Woods",
+      "movie_name": "Chaplin",
+      "weight": 1
+    },
+    {
+      "actor_name": "Robert Downey Jr.",
+      "movie_name": "Heart and Souls",
+      "weight": 7
+    },
+    {
+      "actor_name": "Charles Grodin",
+      "movie_name": "Heart and Souls",
+      "weight": 6
+    },
+    {
+      "actor_name": "Kyra Sedgwick",
+      "movie_name": "Heart and Souls",
+      "weight": 5
+    },
+    {
+      "actor_name": "Elisabeth Shue",
+      "movie_name": "Heart and Souls",
+      "weight": 4
+    },
+    {
+      "actor_name": "Tom Sizemore",
+      "movie_name": "Heart and Souls",
+      "weight": 3
+    },
+    {
+      "actor_name": "David Paymer",
+      "movie_name": "Heart and Souls",
+      "weight": 2
+    },
+    {
+      "actor_name": "Alfre Woodard",
+      "movie_name": "Heart and Souls",
+      "weight": 1
+    },
+    {
+      "actor_name": "Andie MacDowell",
+      "movie_name": "Short Cuts",
+      "weight": 13
+    },
+    {
+      "actor_name": "Bruce Davison",
+      "movie_name": "Short Cuts",
+      "weight": 12
+    },
+    {
+      "actor_name": "Julianne Moore",
+      "movie_name": "Short Cuts",
+      "weight": 11
+    },
+    {
+      "actor_name": "Matthew Modine",
+      "movie_name": "Short Cuts",
+      "weight": 10
+    },
+    {
+      "actor_name": "Anne Archer",
+      "movie_name": "Short Cuts",
+      "weight": 9
+    },
+    {
+      "actor_name": "Fred Ward",
+      "movie_name": "Short Cuts",
+      "weight": 8
+    },
+    {
+      "actor_name": "Jennifer Jason Leigh",
+      "movie_name": "Short Cuts",
+      "weight": 7
+    },
+    {
+      "actor_name": "Chris Penn",
+      "movie_name": "Short Cuts",
+      "weight": 6
+    },
+    {
+      "actor_name": "Lili Taylor",
+      "movie_name": "Short Cuts",
+      "weight": 5
+    },
+    {
+      "actor_name": "Robert Downey Jr.",
+      "movie_name": "Short Cuts",
+      "weight": 4
+    },
+    {
+      "actor_name": "Madeleine Stowe",
+      "movie_name": "Short Cuts",
+      "weight": 3
+    },
+    {
+      "actor_name": "Tim Robbins",
+      "movie_name": "Short Cuts",
+      "weight": 2
+    },
+    {
+      "actor_name": "Lily Tomlin",
+      "movie_name": "Short Cuts",
+      "weight": 1
+    },
+    {
+      "actor_name": "Woody Harrelson",
+      "movie_name": "Natural Born Killers",
+      "weight": 5
+    },
+    {
+      "actor_name": "Juliette Lewis",
+      "movie_name": "Natural Born Killers",
+      "weight": 4
+    },
+    {
+      "actor_name": "Robert Downey, Jr.",
+      "movie_name": "Natural Born Killers",
+      "weight": 3
+    },
+    {
+      "actor_name": "Tommy Lee Jones",
+      "movie_name": "Natural Born Killers",
+      "weight": 2
+    },
+    {
+      "actor_name": "Tom Sizemore",
+      "movie_name": "Natural Born Killers",
+      "weight": 1
+    },
+    {
+      "actor_name": "Marisa Tomei",
+      "movie_name": "Only You",
+      "weight": 5
+    },
+    {
+      "actor_name": "Robert Downey Jr.",
+      "movie_name": "Only You",
+      "weight": 4
+    },
+    {
+      "actor_name": "Bonnie Hunt",
+      "movie_name": "Only You",
+      "weight": 3
+    },
+    {
+      "actor_name": "Joaquim de Almeida",
+      "movie_name": "Only You",
+      "weight": 2
+    },
+    {
+      "actor_name": "Fisher Stevens",
+      "movie_name": "Only You",
+      "weight": 1
+    },
+    {
+      "actor_name": "Ian McKellen",
+      "movie_name": "Richard III",
+      "weight": 8
+    },
+    {
+      "actor_name": "Annette Bening",
+      "movie_name": "Richard III",
+      "weight": 7
+    },
+    {
+      "actor_name": "Jim Broadbent",
+      "movie_name": "Richard III",
+      "weight": 6
+    },
+    {
+      "actor_name": "Robert Downey Jr.",
+      "movie_name": "Richard III",
+      "weight": 5
+    },
+    {
+      "actor_name": "Nigel Hawthorne",
+      "movie_name": "Richard III",
+      "weight": 4
+    },
+    {
+      "actor_name": "Kristin Scott Thomas",
+      "movie_name": "Richard III",
+      "weight": 3
+    },
+    {
+      "actor_name": "Maggie Smith",
+      "movie_name": "Richard III",
+      "weight": 2
+    },
+    {
+      "actor_name": "John Wood",
+      "movie_name": "Richard III",
+      "weight": 1
+    },
+    {
+      "actor_name": "Holly Hunter",
+      "movie_name": "Home for the Holidays",
+      "weight": 9
+    },
+    {
+      "actor_name": "Robert Downey Jr.",
+      "movie_name": "Home for the Holidays",
+      "weight": 8
+    },
+    {
+      "actor_name": "Anne Bancroft",
+      "movie_name": "Home for the Holidays",
+      "weight": 7
+    },
+    {
+      "actor_name": "Dylan McDermott",
+      "movie_name": "Home for the Holidays",
+      "weight": 6
+    },
+    {
+      "actor_name": "Geraldine Chaplin",
+      "movie_name": "Home for the Holidays",
+      "weight": 5
+    },
+    {
+      "actor_name": "Steve Guttenberg",
+      "movie_name": "Home for the Holidays",
+      "weight": 4
+    },
+    {
+      "actor_name": "Claire Danes",
+      "movie_name": "Home for the Holidays",
+      "weight": 3
+    },
+    {
+      "actor_name": "Cynthia Stevenson",
+      "movie_name": "Home for the Holidays",
+      "weight": 2
+    },
+    {
+      "actor_name": "Charles Durning",
+      "movie_name": "Home for the Holidays",
+      "weight": 1
+    },
+    {
+      "actor_name": "Robert Downey Jr.",
+      "movie_name": "Restoration",
+      "weight": 7
+    },
+    {
+      "actor_name": "Sam Neill",
+      "movie_name": "Restoration",
+      "weight": 6
+    },
+    {
+      "actor_name": "Meg Ryan",
+      "movie_name": "Restoration",
+      "weight": 5
+    },
+    {
+      "actor_name": "David Thewlis",
+      "movie_name": "Restoration",
+      "weight": 4
+    },
+    {
+      "actor_name": "Polly Walker",
+      "movie_name": "Restoration",
+      "weight": 3
+    },
+    {
+      "actor_name": "Ian McKellen",
+      "movie_name": "Restoration",
+      "weight": 2
+    },
+    {
+      "actor_name": "Hugh Grant",
+      "movie_name": "Restoration",
+      "weight": 1
+    },
+    {
+      "actor_name": "Wesley Snipes",
+      "movie_name": "One Night Stand",
+      "weight": 5
+    },
+    {
+      "actor_name": "Nastassja Kinski",
+      "movie_name": "One Night Stand",
+      "weight": 4
+    },
+    {
+      "actor_name": "Kyle MacLachlan",
+      "movie_name": "One Night Stand",
+      "weight": 3
+    },
+    {
+      "actor_name": "Ming-Na",
+      "movie_name": "One Night Stand",
+      "weight": 2
+    },
+    {
+      "actor_name": "Robert Downey Jr.",
+      "movie_name": "One Night Stand",
+      "weight": 1
+    },
+    {
+      "actor_name": "Robert Downey Jr.",
+      "movie_name": "Two Girls and a Guy",
+      "weight": 3
+    },
+    {
+      "actor_name": "Heather Graham",
+      "movie_name": "Two Girls and a Guy",
+      "weight": 2
+    },
+    {
+      "actor_name": "Natasha Gregson Wagner",
+      "movie_name": "Two Girls and a Guy",
+      "weight": 1
+    },
+    {
+      "actor_name": "Patrick Dempsey",
+      "movie_name": "Hugo Pool",
+      "weight": 7
+    },
+    {
+      "actor_name": "Robert Downey Jr.",
+      "movie_name": "Hugo Pool",
+      "weight": 6
+    },
+    {
+      "actor_name": "Richard Lewis",
+      "movie_name": "Hugo Pool",
+      "weight": 5
+    },
+    {
+      "actor_name": "Malcolm McDowell",
+      "movie_name": "Hugo Pool",
+      "weight": 4
+    },
+    {
+      "actor_name": "Alyssa Milano",
+      "movie_name": "Hugo Pool",
+      "weight": 3
+    },
+    {
+      "actor_name": "Cathy Moriarty",
+      "movie_name": "Hugo Pool",
+      "weight": 2
+    },
+    {
+      "actor_name": "Sean Penn",
+      "movie_name": "Hugo Pool",
+      "weight": 1
+    },
+    {
+      "actor_name": "Kenneth Branagh",
+      "movie_name": "The Gingerbread Man",
+      "weight": 6
+    },
+    {
+      "actor_name": "Embeth Davidtz",
+      "movie_name": "The Gingerbread Man",
+      "weight": 5
+    },
+    {
+      "actor_name": "Robert Downey Jr.",
+      "movie_name": "The Gingerbread Man",
+      "weight": 4
+    },
+    {
+      "actor_name": "Daryl Hannah",
+      "movie_name": "The Gingerbread Man",
+      "weight": 3
+    },
+    {
+      "actor_name": "Tom Berenger",
+      "movie_name": "The Gingerbread Man",
+      "weight": 2
+    },
+    {
+      "actor_name": "Robert Duvall",
+      "movie_name": "The Gingerbread Man",
+      "weight": 1
+    },
+    {
+      "actor_name": "Tommy Lee Jones",
+      "movie_name": "U.S. Marshals",
+      "weight": 6
+    },
+    {
+      "actor_name": "Wesley Snipes",
+      "movie_name": "U.S. Marshals",
+      "weight": 5
+    },
+    {
+      "actor_name": "Robert Downey Jr.",
+      "movie_name": "U.S. Marshals",
+      "weight": 4
+    },
+    {
+      "actor_name": "Joe Pantoliano",
+      "movie_name": "U.S. Marshals",
+      "weight": 3
+    },
+    {
+      "actor_name": "Kate Nelligan",
+      "movie_name": "U.S. Marshals",
+      "weight": 2
+    },
+    {
+      "actor_name": "Ir\u00e8ne Jacob",
+      "movie_name": "U.S. Marshals",
+      "weight": 1
+    },
+    {
+      "actor_name": "Annette Bening",
+      "movie_name": "In Dreams",
+      "weight": 5
+    },
+    {
+      "actor_name": "Aidan Quinn",
+      "movie_name": "In Dreams",
+      "weight": 4
+    },
+    {
+      "actor_name": "Stephen Rea",
+      "movie_name": "In Dreams",
+      "weight": 3
+    },
+    {
+      "actor_name": "Robert Downey Jr.",
+      "movie_name": "In Dreams",
+      "weight": 2
+    },
+    {
+      "actor_name": "Paul Guilfoyle",
+      "movie_name": "In Dreams",
+      "weight": 1
+    },
+    {
+      "actor_name": "Stephen Baldwin",
+      "movie_name": "Friends & Lovers",
+      "weight": 11
+    },
+    {
+      "actor_name": "Danny Nucci",
+      "movie_name": "Friends & Lovers",
+      "weight": 10
+    },
+    {
+      "actor_name": "George Newbern",
+      "movie_name": "Friends & Lovers",
+      "weight": 9
+    },
+    {
+      "actor_name": "Alison Eastwood",
+      "movie_name": "Friends & Lovers",
+      "weight": 8
+    },
+    {
+      "actor_name": "Claudia Schiffer",
+      "movie_name": "Friends & Lovers",
+      "weight": 7
+    },
+    {
+      "actor_name": "Suzanne Cryer",
+      "movie_name": "Friends & Lovers",
+      "weight": 6
+    },
+    {
+      "actor_name": "David Rasche",
+      "movie_name": "Friends & Lovers",
+      "weight": 5
+    },
+    {
+      "actor_name": "Neill Barry",
+      "movie_name": "Friends & Lovers",
+      "weight": 4
+    },
+    {
+      "actor_name": "Leon",
+      "movie_name": "Friends & Lovers",
+      "weight": 3
+    },
+    {
+      "actor_name": "Ann Magnuson",
+      "movie_name": "Friends & Lovers",
+      "weight": 2
+    },
+    {
+      "actor_name": "Robert Downey Jr.",
+      "movie_name": "Friends & Lovers",
+      "weight": 1
+    },
+    {
+      "actor_name": "Eddie Murphy",
+      "movie_name": "Bowfinger",
+      "weight": 4
+    },
+    {
+      "actor_name": "Heather Graham",
+      "movie_name": "Bowfinger",
+      "weight": 3
+    },
+    {
+      "actor_name": "Christine Baranski",
+      "movie_name": "Bowfinger",
+      "weight": 2
+    },
+    {
+      "actor_name": "Terence Stamp",
+      "movie_name": "Bowfinger",
+      "weight": 1
+    },
+    {
+      "actor_name": "Robert Downey Jr.",
+      "movie_name": "Black and White",
+      "weight": 12
+    },
+    {
+      "actor_name": "Gaby Hoffmann",
+      "movie_name": "Black and White",
+      "weight": 11
+    },
+    {
+      "actor_name": "Jared Leto",
+      "movie_name": "Black and White",
+      "weight": 10
+    },
+    {
+      "actor_name": "Joe Pantoliano",
+      "movie_name": "Black and White",
+      "weight": 9
+    },
+    {
+      "actor_name": "Power",
+      "movie_name": "Black and White",
+      "weight": 8
+    },
+    {
+      "actor_name": "Raekwon",
+      "movie_name": "Black and White",
+      "weight": 7
+    },
+    {
+      "actor_name": "Claudia Schiffer",
+      "movie_name": "Black and White",
+      "weight": 6
+    },
+    {
+      "actor_name": "William Lee Scott",
+      "movie_name": "Black and White",
+      "weight": 5
+    },
+    {
+      "actor_name": "Brooke Shields",
+      "movie_name": "Black and White",
+      "weight": 4
+    },
+    {
+      "actor_name": "Ben Stiller",
+      "movie_name": "Black and White",
+      "weight": 3
+    },
+    {
+      "actor_name": "Mike Tyson",
+      "movie_name": "Black and White",
+      "weight": 2
+    },
+    {
+      "actor_name": "Elijah Wood",
+      "movie_name": "Black and White",
+      "weight": 1
+    },
+    {
+      "actor_name": "Michael Douglas",
+      "movie_name": "Wonder Boys",
+      "weight": 6
+    },
+    {
+      "actor_name": "Tobey Maguire",
+      "movie_name": "Wonder Boys",
+      "weight": 5
+    },
+    {
+      "actor_name": "Frances McDormand",
+      "movie_name": "Wonder Boys",
+      "weight": 4
+    },
+    {
+      "actor_name": "Katie Holmes",
+      "movie_name": "Wonder Boys",
+      "weight": 3
+    },
+    {
+      "actor_name": "Rip Torn",
+      "movie_name": "Wonder Boys",
+      "weight": 2
+    },
+    {
+      "actor_name": "Robert Downey Jr.",
+      "movie_name": "Wonder Boys",
+      "weight": 1
+    },
+    {
+      "actor_name": "Robert Downey Jr.",
+      "movie_name": "The Singing Detective",
+      "weight": 4
+    },
+    {
+      "actor_name": "Robin Wright Penn",
+      "movie_name": "The Singing Detective",
+      "weight": 3
+    },
+    {
+      "actor_name": "Jeremy Northam",
+      "movie_name": "The Singing Detective",
+      "weight": 2
+    },
+    {
+      "actor_name": "Katie Holmes",
+      "movie_name": "The Singing Detective",
+      "weight": 1
+    },
+    {
+      "actor_name": "Halle Berry",
+      "movie_name": "Gothika",
+      "weight": 6
+    },
+    {
+      "actor_name": "Robert Downey Jr.",
+      "movie_name": "Gothika",
+      "weight": 5
+    },
+    {
+      "actor_name": "Charles S. Dutton",
+      "movie_name": "Gothika",
+      "weight": 4
+    },
+    {
+      "actor_name": "John Carroll Lynch",
+      "movie_name": "Gothika",
+      "weight": 3
+    },
+    {
+      "actor_name": "Bernard Hill",
+      "movie_name": "Gothika",
+      "weight": 2
+    },
+    {
+      "actor_name": "Pen\u00e9lope Cruz",
+      "movie_name": "Gothika",
+      "weight": 1
+    },
+    {
+      "actor_name": "Gong Li",
+      "movie_name": "Eros",
+      "weight": 8
+    },
+    {
+      "actor_name": "Chang Chen",
+      "movie_name": "Eros",
+      "weight": 7
+    },
+    {
+      "actor_name": "Alan Arkin",
+      "movie_name": "Eros",
+      "weight": 6
+    },
+    {
+      "actor_name": "Robert Downey Jr.",
+      "movie_name": "Eros",
+      "weight": 5
+    },
+    {
+      "actor_name": "Ele Keats",
+      "movie_name": "Eros",
+      "weight": 4
+    },
+    {
+      "actor_name": "Christopher Buchholz",
+      "movie_name": "Eros",
+      "weight": 3
+    },
+    {
+      "actor_name": "Regina Nemni",
+      "movie_name": "Eros",
+      "weight": 2
+    },
+    {
+      "actor_name": "Luisa Ranieri",
+      "movie_name": "Eros",
+      "weight": 1
+    },
+    {
+      "actor_name": "Michael Keaton",
+      "movie_name": "Game 6",
+      "weight": 5
+    },
+    {
+      "actor_name": "Bebe Neuwirth",
+      "movie_name": "Game 6",
+      "weight": 4
+    },
+    {
+      "actor_name": "Griffin Dunne",
+      "movie_name": "Game 6",
+      "weight": 3
+    },
+    {
+      "actor_name": "Catherine O'Hara",
+      "movie_name": "Game 6",
+      "weight": 2
+    },
+    {
+      "actor_name": "Robert Downey Jr.",
+      "movie_name": "Game 6",
+      "weight": 1
+    },
+    {
+      "actor_name": "Robert Downey Jr.",
+      "movie_name": "Kiss Kiss Bang Bang",
+      "weight": 4
+    },
+    {
+      "actor_name": "Val Kilmer",
+      "movie_name": "Kiss Kiss Bang Bang",
+      "weight": 3
+    },
+    {
+      "actor_name": "Michelle Monaghan",
+      "movie_name": "Kiss Kiss Bang Bang",
+      "weight": 2
+    },
+    {
+      "actor_name": "Corbin Bernsen",
+      "movie_name": "Kiss Kiss Bang Bang",
+      "weight": 1
+    },
+    {
+      "actor_name": "David Strathairn",
+      "movie_name": "Good Night, and Good Luck",
+      "weight": 5
+    },
+    {
+      "actor_name": "Patricia Clarkson",
+      "movie_name": "Good Night, and Good Luck",
+      "weight": 4
+    },
+    {
+      "actor_name": "Jeff Daniels",
+      "movie_name": "Good Night, and Good Luck",
+      "weight": 3
+    },
+    {
+      "actor_name": "Robert Downey Jr.",
+      "movie_name": "Good Night, and Good Luck",
+      "weight": 2
+    },
+    {
+      "actor_name": "Frank Langella",
+      "movie_name": "Good Night, and Good Luck",
+      "weight": 1
+    },
+    {
+      "actor_name": "Robert Downey Jr.",
+      "movie_name": "A Guide to Recognizing Your Saints",
+      "weight": 8
+    },
+    {
+      "actor_name": "Shia LaBeouf",
+      "movie_name": "A Guide to Recognizing Your Saints",
+      "weight": 7
+    },
+    {
+      "actor_name": "Rosario Dawson",
+      "movie_name": "A Guide to Recognizing Your Saints",
+      "weight": 6
+    },
+    {
+      "actor_name": "Melonie Diaz",
+      "movie_name": "A Guide to Recognizing Your Saints",
+      "weight": 5
+    },
+    {
+      "actor_name": "Eric Roberts",
+      "movie_name": "A Guide to Recognizing Your Saints",
+      "weight": 4
+    },
+    {
+      "actor_name": "Channing Tatum",
+      "movie_name": "A Guide to Recognizing Your Saints",
+      "weight": 3
+    },
+    {
+      "actor_name": "Chazz Palminteri",
+      "movie_name": "A Guide to Recognizing Your Saints",
+      "weight": 2
+    },
+    {
+      "actor_name": "Dianne Wiest",
+      "movie_name": "A Guide to Recognizing Your Saints",
+      "weight": 1
+    },
+    {
+      "actor_name": "Robert Downey Jr.",
+      "movie_name": "The Shaggy Dog",
+      "weight": 6
+    },
+    {
+      "actor_name": "Kristin Davis",
+      "movie_name": "The Shaggy Dog",
+      "weight": 5
+    },
+    {
+      "actor_name": "Danny Glover",
+      "movie_name": "The Shaggy Dog",
+      "weight": 4
+    },
+    {
+      "actor_name": "Spencer Breslin",
+      "movie_name": "The Shaggy Dog",
+      "weight": 3
+    },
+    {
+      "actor_name": "Jane Curtin",
+      "movie_name": "The Shaggy Dog",
+      "weight": 2
+    },
+    {
+      "actor_name": "Philip Baker Hall",
+      "movie_name": "The Shaggy Dog",
+      "weight": 1
+    },
+    {
+      "actor_name": "Keanu Reeves",
+      "movie_name": "A Scanner Darkly",
+      "weight": 5
+    },
+    {
+      "actor_name": "Robert Downey Jr.",
+      "movie_name": "A Scanner Darkly",
+      "weight": 4
+    },
+    {
+      "actor_name": "Woody Harrelson",
+      "movie_name": "A Scanner Darkly",
+      "weight": 3
+    },
+    {
+      "actor_name": "Winona Ryder",
+      "movie_name": "A Scanner Darkly",
+      "weight": 2
+    },
+    {
+      "actor_name": "Rory Cochrane",
+      "movie_name": "A Scanner Darkly",
+      "weight": 1
+    },
+    {
+      "actor_name": "Nicole Kidman",
+      "movie_name": "Fur",
+      "weight": 2
+    },
+    {
+      "actor_name": "Robert Downey Jr.",
+      "movie_name": "Fur",
+      "weight": 1
+    },
+    {
+      "actor_name": "Jake Gyllenhaal",
+      "movie_name": "Zodiac",
+      "weight": 10
+    },
+    {
+      "actor_name": "Mark Ruffalo",
+      "movie_name": "Zodiac",
+      "weight": 9
+    },
+    {
+      "actor_name": "Robert Downey Jr.",
+      "movie_name": "Zodiac",
+      "weight": 8
+    },
+    {
+      "actor_name": "Anthony Edwards",
+      "movie_name": "Zodiac",
+      "weight": 7
+    },
+    {
+      "actor_name": "Brian Cox",
+      "movie_name": "Zodiac",
+      "weight": 6
+    },
+    {
+      "actor_name": "Elias Koteas",
+      "movie_name": "Zodiac",
+      "weight": 5
+    },
+    {
+      "actor_name": "Donal Logue",
+      "movie_name": "Zodiac",
+      "weight": 4
+    },
+    {
+      "actor_name": "John Carroll Lynch",
+      "movie_name": "Zodiac",
+      "weight": 3
+    },
+    {
+      "actor_name": "Dermot Mulroney",
+      "movie_name": "Zodiac",
+      "weight": 2
+    },
+    {
+      "actor_name": "Chlo\u00eb Sevigny",
+      "movie_name": "Zodiac",
+      "weight": 1
+    },
+    {
+      "actor_name": "Eric Bana",
+      "movie_name": "Lucky You",
+      "weight": 5
+    },
+    {
+      "actor_name": "Drew Barrymore",
+      "movie_name": "Lucky You",
+      "weight": 4
+    },
+    {
+      "actor_name": "Robert Duvall",
+      "movie_name": "Lucky You",
+      "weight": 3
+    },
+    {
+      "actor_name": "Debra Messing",
+      "movie_name": "Lucky You",
+      "weight": 2
+    },
+    {
+      "actor_name": "Jean Smart",
+      "movie_name": "Lucky You",
+      "weight": 1
+    },
+    {
+      "actor_name": "Anton Yelchin",
+      "movie_name": "Charlie Bartlett",
+      "weight": 5
+    },
+    {
+      "actor_name": "Kat Dennings",
+      "movie_name": "Charlie Bartlett",
+      "weight": 4
+    },
+    {
+      "actor_name": "Hope Davis",
+      "movie_name": "Charlie Bartlett",
+      "weight": 3
+    },
+    {
+      "actor_name": "Robert Downey Jr.",
+      "movie_name": "Charlie Bartlett",
+      "weight": 2
+    },
+    {
+      "actor_name": "Tyler Hilton",
+      "movie_name": "Charlie Bartlett",
+      "weight": 1
+    },
+    {
+      "actor_name": "Robert Downey Jr.",
+      "movie_name": "Iron Man",
+      "weight": 5
+    },
+    {
+      "actor_name": "Terrence Howard",
+      "movie_name": "Iron Man",
+      "weight": 4
+    },
+    {
+      "actor_name": "Jeff Bridges",
+      "movie_name": "Iron Man",
+      "weight": 3
+    },
+    {
+      "actor_name": "Shaun Toub",
+      "movie_name": "Iron Man",
+      "weight": 2
+    },
+    {
+      "actor_name": "Gwyneth Paltrow",
+      "movie_name": "Iron Man",
+      "weight": 1
+    },
+    {
+      "actor_name": "Edward Norton",
+      "movie_name": "The Incredible Hulk",
+      "weight": 6
+    },
+    {
+      "actor_name": "Liv Tyler",
+      "movie_name": "The Incredible Hulk",
+      "weight": 5
+    },
+    {
+      "actor_name": "Tim Roth",
+      "movie_name": "The Incredible Hulk",
+      "weight": 4
+    },
+    {
+      "actor_name": "Tim Blake Nelson",
+      "movie_name": "The Incredible Hulk",
+      "weight": 3
+    },
+    {
+      "actor_name": "Ty Burrell",
+      "movie_name": "The Incredible Hulk",
+      "weight": 2
+    },
+    {
+      "actor_name": "William Hurt",
+      "movie_name": "The Incredible Hulk",
+      "weight": 1
+    },
+    {
+      "actor_name": "Jack Black",
+      "movie_name": "Tropic Thunder",
+      "weight": 8
+    },
+    {
+      "actor_name": "Robert Downey Jr.",
+      "movie_name": "Tropic Thunder",
+      "weight": 7
+    },
+    {
+      "actor_name": "Steve Coogan",
+      "movie_name": "Tropic Thunder",
+      "weight": 6
+    },
+    {
+      "actor_name": "Jay Baruchel",
+      "movie_name": "Tropic Thunder",
+      "weight": 5
+    },
+    {
+      "actor_name": "Danny McBride",
+      "movie_name": "Tropic Thunder",
+      "weight": 4
+    },
+    {
+      "actor_name": "Brandon T. Jackson",
+      "movie_name": "Tropic Thunder",
+      "weight": 3
+    },
+    {
+      "actor_name": "Bill Hader",
+      "movie_name": "Tropic Thunder",
+      "weight": 2
+    },
+    {
+      "actor_name": "Nick Nolte",
+      "movie_name": "Tropic Thunder",
+      "weight": 1
+    },
+    {
+      "actor_name": "Jamie Foxx",
+      "movie_name": "The Soloist",
+      "weight": 5
+    },
+    {
+      "actor_name": "Robert Downey, Jr.",
+      "movie_name": "The Soloist",
+      "weight": 4
+    },
+    {
+      "actor_name": "Catherine Keener",
+      "movie_name": "The Soloist",
+      "weight": 3
+    },
+    {
+      "actor_name": "Tom Hollander",
+      "movie_name": "The Soloist",
+      "weight": 2
+    },
+    {
+      "actor_name": "Lisa Gay Hamilton",
+      "movie_name": "The Soloist",
+      "weight": 1
+    },
+    {
+      "actor_name": "Robert Downey Jr.",
+      "movie_name": "Sherlock Holmes",
+      "weight": 5
+    },
+    {
+      "actor_name": "Jude Law",
+      "movie_name": "Sherlock Holmes",
+      "weight": 4
+    },
+    {
+      "actor_name": "Rachel McAdams",
+      "movie_name": "Sherlock Holmes",
+      "weight": 3
+    },
+    {
+      "actor_name": "Mark Strong",
+      "movie_name": "Sherlock Holmes",
+      "weight": 2
+    },
+    {
+      "actor_name": "Eddie Marsan",
+      "movie_name": "Sherlock Holmes",
+      "weight": 1
+    },
+    {
+      "actor_name": "Robert Downey Jr.",
+      "movie_name": "Iron Man 2",
+      "weight": 7
+    },
+    {
+      "actor_name": "Gwyneth Paltrow",
+      "movie_name": "Iron Man 2",
+      "weight": 6
+    },
+    {
+      "actor_name": "Don Cheadle",
+      "movie_name": "Iron Man 2",
+      "weight": 5
+    },
+    {
+      "actor_name": "Scarlett Johansson",
+      "movie_name": "Iron Man 2",
+      "weight": 4
+    },
+    {
+      "actor_name": "Sam Rockwell",
+      "movie_name": "Iron Man 2",
+      "weight": 3
+    },
+    {
+      "actor_name": "Mickey Rourke",
+      "movie_name": "Iron Man 2",
+      "weight": 2
+    },
+    {
+      "actor_name": "Samuel L. Jackson",
+      "movie_name": "Iron Man 2",
+      "weight": 1
+    },
+    {
+      "actor_name": "Robert Downey Jr.",
+      "movie_name": "Due Date",
+      "weight": 5
+    },
+    {
+      "actor_name": "Zach Galifianakis",
+      "movie_name": "Due Date",
+      "weight": 4
+    },
+    {
+      "actor_name": "Michelle Monaghan",
+      "movie_name": "Due Date",
+      "weight": 3
+    },
+    {
+      "actor_name": "Juliette Lewis",
+      "movie_name": "Due Date",
+      "weight": 2
+    },
+    {
+      "actor_name": "Jamie Foxx",
+      "movie_name": "Due Date",
+      "weight": 1
+    },
+    {
+      "actor_name": "Robert Downey Jr.",
+      "movie_name": "Sherlock Holmes: A Game of Shadows",
+      "weight": 6
+    },
+    {
+      "actor_name": "Jude Law",
+      "movie_name": "Sherlock Holmes: A Game of Shadows",
+      "weight": 5
+    },
+    {
+      "actor_name": "Noomi Rapace",
+      "movie_name": "Sherlock Holmes: A Game of Shadows",
+      "weight": 4
+    },
+    {
+      "actor_name": "Jared Harris",
+      "movie_name": "Sherlock Holmes: A Game of Shadows",
+      "weight": 3
+    },
+    {
+      "actor_name": "Stephen Fry",
+      "movie_name": "Sherlock Holmes: A Game of Shadows",
+      "weight": 2
+    },
+    {
+      "actor_name": "Rachel McAdams",
+      "movie_name": "Sherlock Holmes: A Game of Shadows",
+      "weight": 1
+    },
+    {
+      "actor_name": "Robert Downey Jr.",
+      "movie_name": "The Avengers",
+      "weight": 11
+    },
+    {
+      "actor_name": "Chris Evans",
+      "movie_name": "The Avengers",
+      "weight": 10
+    },
+    {
+      "actor_name": "Mark Ruffalo",
+      "movie_name": "The Avengers",
+      "weight": 9
+    },
+    {
+      "actor_name": "Chris Hemsworth",
+      "movie_name": "The Avengers",
+      "weight": 8
+    },
+    {
+      "actor_name": "Scarlett Johansson",
+      "movie_name": "The Avengers",
+      "weight": 7
+    },
+    {
+      "actor_name": "Jeremy Renner",
+      "movie_name": "The Avengers",
+      "weight": 6
+    },
+    {
+      "actor_name": "Tom Hiddleston",
+      "movie_name": "The Avengers",
+      "weight": 5
+    },
+    {
+      "actor_name": "Clark Gregg",
+      "movie_name": "The Avengers",
+      "weight": 4
+    },
+    {
+      "actor_name": "Cobie Smulders",
+      "movie_name": "The Avengers",
+      "weight": 3
+    },
+    {
+      "actor_name": "Stellan Skarsg\u00e5rd",
+      "movie_name": "The Avengers",
+      "weight": 2
+    },
+    {
+      "actor_name": "Samuel L. Jackson",
+      "movie_name": "The Avengers",
+      "weight": 1
+    },
+    {
+      "actor_name": "Robert Downey Jr.",
+      "movie_name": "Iron Man 3",
+      "weight": 9
+    },
+    {
+      "actor_name": "Gwyneth Paltrow",
+      "movie_name": "Iron Man 3",
+      "weight": 8
+    },
+    {
+      "actor_name": "Don Cheadle",
+      "movie_name": "Iron Man 3",
+      "weight": 7
+    },
+    {
+      "actor_name": "Guy Pearce",
+      "movie_name": "Iron Man 3",
+      "weight": 6
+    },
+    {
+      "actor_name": "Rebecca Hall",
+      "movie_name": "Iron Man 3",
+      "weight": 5
+    },
+    {
+      "actor_name": "St\u00e9phanie Szostak",
+      "movie_name": "Iron Man 3",
+      "weight": 4
+    },
+    {
+      "actor_name": "James Badge Dale",
+      "movie_name": "Iron Man 3",
+      "weight": 3
+    },
+    {
+      "actor_name": "Jon Favreau",
+      "movie_name": "Iron Man 3",
+      "weight": 2
+    },
+    {
+      "actor_name": "Ben Kingsley",
+      "movie_name": "Iron Man 3",
+      "weight": 1
+    },
+    {
+      "actor_name": "Sof\u00eda Vergara",
+      "movie_name": "Chef",
+      "weight": 9
+    },
+    {
+      "actor_name": "John Leguizamo",
+      "movie_name": "Chef",
+      "weight": 8
+    },
+    {
+      "actor_name": "Scarlett Johansson",
+      "movie_name": "Chef",
+      "weight": 7
+    },
+    {
+      "actor_name": "Dustin Hoffman",
+      "movie_name": "Chef",
+      "weight": 6
+    },
+    {
+      "actor_name": "Oliver Platt",
+      "movie_name": "Chef",
+      "weight": 5
+    },
+    {
+      "actor_name": "Bobby Cannavale",
+      "movie_name": "Chef",
+      "weight": 4
+    },
+    {
+      "actor_name": "Amy Sedaris",
+      "movie_name": "Chef",
+      "weight": 3
+    },
+    {
+      "actor_name": "Emjay Anthony",
+      "movie_name": "Chef",
+      "weight": 2
+    },
+    {
+      "actor_name": "Robert Downey, Jr.",
+      "movie_name": "Chef",
+      "weight": 1
+    },
+    {
+      "actor_name": "Robert Downey Jr.",
+      "movie_name": "The Judge",
+      "weight": 8
+    },
+    {
+      "actor_name": "Robert Duvall",
+      "movie_name": "The Judge",
+      "weight": 7
+    },
+    {
+      "actor_name": "Vera Farmiga",
+      "movie_name": "The Judge",
+      "weight": 6
+    },
+    {
+      "actor_name": "Vincent D'Onofrio",
+      "movie_name": "The Judge",
+      "weight": 5
+    },
+    {
+      "actor_name": "Jeremy Strong",
+      "movie_name": "The Judge",
+      "weight": 4
+    },
+    {
+      "actor_name": "Dax Shepard",
+      "movie_name": "The Judge",
+      "weight": 3
+    },
+    {
+      "actor_name": "Leighton Meester",
+      "movie_name": "The Judge",
+      "weight": 2
+    },
+    {
+      "actor_name": "Billy Bob Thornton",
+      "movie_name": "The Judge",
+      "weight": 1
+    },
+    {
+      "actor_name": "Robert Downey Jr.",
+      "movie_name": "Avengers: Age of Ultron",
+      "weight": 17
+    },
+    {
+      "actor_name": "Chris Hemsworth",
+      "movie_name": "Avengers: Age of Ultron",
+      "weight": 16
+    },
+    {
+      "actor_name": "Mark Ruffalo",
+      "movie_name": "Avengers: Age of Ultron",
+      "weight": 15
+    },
+    {
+      "actor_name": "Chris Evans",
+      "movie_name": "Avengers: Age of Ultron",
+      "weight": 14
+    },
+    {
+      "actor_name": "Scarlett Johansson",
+      "movie_name": "Avengers: Age of Ultron",
+      "weight": 13
+    },
+    {
+      "actor_name": "Jeremy Renner",
+      "movie_name": "Avengers: Age of Ultron",
+      "weight": 12
+    },
+    {
+      "actor_name": "Don Cheadle",
+      "movie_name": "Avengers: Age of Ultron",
+      "weight": 11
+    },
+    {
+      "actor_name": "Aaron Taylor-Johnson",
+      "movie_name": "Avengers: Age of Ultron",
+      "weight": 10
+    },
+    {
+      "actor_name": "Elizabeth Olsen",
+      "movie_name": "Avengers: Age of Ultron",
+      "weight": 9
+    },
+    {
+      "actor_name": "Paul Bettany",
+      "movie_name": "Avengers: Age of Ultron",
+      "weight": 8
+    },
+    {
+      "actor_name": "Cobie Smulders",
+      "movie_name": "Avengers: Age of Ultron",
+      "weight": 7
+    },
+    {
+      "actor_name": "Anthony Mackie",
+      "movie_name": "Avengers: Age of Ultron",
+      "weight": 6
+    },
+    {
+      "actor_name": "Hayley Atwell",
+      "movie_name": "Avengers: Age of Ultron",
+      "weight": 5
+    },
+    {
+      "actor_name": "Idris Elba",
+      "movie_name": "Avengers: Age of Ultron",
+      "weight": 4
+    },
+    {
+      "actor_name": "Stellan Skarsg\u00e5rd",
+      "movie_name": "Avengers: Age of Ultron",
+      "weight": 3
+    },
+    {
+      "actor_name": "James Spader",
+      "movie_name": "Avengers: Age of Ultron",
+      "weight": 2
+    },
+    {
+      "actor_name": "Samuel L. Jackson",
+      "movie_name": "Avengers: Age of Ultron",
+      "weight": 1
+    },
+    {
+      "actor_name": "Chris Evans",
+      "movie_name": "Captain America:Civil War",
+      "weight": 16
+    },
+    {
+      "actor_name": "Robert Downey Jr.",
+      "movie_name": "Captain America:Civil War",
+      "weight": 15
+    },
+    {
+      "actor_name": "Scarlett Johansson",
+      "movie_name": "Captain America:Civil War",
+      "weight": 14
+    },
+    {
+      "actor_name": "Sebastian Stan",
+      "movie_name": "Captain America:Civil War",
+      "weight": 13
+    },
+    {
+      "actor_name": "Anthony Mackie",
+      "movie_name": "Captain America:Civil War",
+      "weight": 12
+    },
+    {
+      "actor_name": "Don Cheadle",
+      "movie_name": "Captain America:Civil War",
+      "weight": 11
+    },
+    {
+      "actor_name": "Jeremy Renner",
+      "movie_name": "Captain America:Civil War",
+      "weight": 10
+    },
+    {
+      "actor_name": "Chadwick Boseman",
+      "movie_name": "Captain America:Civil War",
+      "weight": 9
+    },
+    {
+      "actor_name": "Paul Bettany",
+      "movie_name": "Captain America:Civil War",
+      "weight": 8
+    },
+    {
+      "actor_name": "Elizabeth Olsen",
+      "movie_name": "Captain America:Civil War",
+      "weight": 7
+    },
+    {
+      "actor_name": "Paul Rudd",
+      "movie_name": "Captain America:Civil War",
+      "weight": 6
+    },
+    {
+      "actor_name": "Emily VanCamp",
+      "movie_name": "Captain America:Civil War",
+      "weight": 5
+    },
+    {
+      "actor_name": "Tom Holland",
+      "movie_name": "Captain America:Civil War",
+      "weight": 4
+    },
+    {
+      "actor_name": "Frank Grillo",
+      "movie_name": "Captain America:Civil War",
+      "weight": 3
+    },
+    {
+      "actor_name": "William Hurt",
+      "movie_name": "Captain America:Civil War",
+      "weight": 2
+    },
+    {
+      "actor_name": "Daniel Br\u00fchl",
+      "movie_name": "Captain America:Civil War",
+      "weight": 1
+    },
+    {
+      "actor_name": "Tom Holland",
+      "movie_name": "Spider-Man: Homecoming",
+      "weight": 8
+    },
+    {
+      "actor_name": "Michael Keaton",
+      "movie_name": "Spider-Man: Homecoming",
+      "weight": 7
+    },
+    {
+      "actor_name": "Jon Favreau",
+      "movie_name": "Spider-Man: Homecoming",
+      "weight": 6
+    },
+    {
+      "actor_name": "Zendaya",
+      "movie_name": "Spider-Man: Homecoming",
+      "weight": 5
+    },
+    {
+      "actor_name": "Donald Glover",
+      "movie_name": "Spider-Man: Homecoming",
+      "weight": 4
+    },
+    {
+      "actor_name": "Tyne Daly",
+      "movie_name": "Spider-Man: Homecoming",
+      "weight": 3
+    },
+    {
+      "actor_name": "Marisa Tomei",
+      "movie_name": "Spider-Man: Homecoming",
+      "weight": 2
+    },
+    {
+      "actor_name": "Robert Downey Jr.",
+      "movie_name": "Spider-Man: Homecoming",
+      "weight": 1
+    },
+    {
+      "actor_name": "Robert Downey Jr.",
+      "movie_name": "Avengers: Infinity War",
+      "weight": 19
+    },
+    {
+      "actor_name": "Chris Hemsworth",
+      "movie_name": "Avengers: Infinity War",
+      "weight": 18
+    },
+    {
+      "actor_name": "Mark Ruffalo",
+      "movie_name": "Avengers: Infinity War",
+      "weight": 17
+    },
+    {
+      "actor_name": "Chris Evans",
+      "movie_name": "Avengers: Infinity War",
+      "weight": 16
+    },
+    {
+      "actor_name": "Scarlett Johansson",
+      "movie_name": "Avengers: Infinity War",
+      "weight": 15
+    },
+    {
+      "actor_name": "Benedict Cumberbatch",
+      "movie_name": "Avengers: Infinity War",
+      "weight": 14
+    },
+    {
+      "actor_name": "Don Cheadle",
+      "movie_name": "Avengers: Infinity War",
+      "weight": 13
+    },
+    {
+      "actor_name": "Tom Holland",
+      "movie_name": "Avengers: Infinity War",
+      "weight": 12
+    },
+    {
+      "actor_name": "Chadwick Boseman",
+      "movie_name": "Avengers: Infinity War",
+      "weight": 11
+    },
+    {
+      "actor_name": "Paul Bettany",
+      "movie_name": "Avengers: Infinity War",
+      "weight": 10
+    },
+    {
+      "actor_name": "Elizabeth Olsen",
+      "movie_name": "Avengers: Infinity War",
+      "weight": 9
+    },
+    {
+      "actor_name": "Anthony Mackie",
+      "movie_name": "Avengers: Infinity War",
+      "weight": 8
+    },
+    {
+      "actor_name": "Sebastian Stan",
+      "movie_name": "Avengers: Infinity War",
+      "weight": 7
+    },
+    {
+      "actor_name": "Danai Gurira",
+      "movie_name": "Avengers: Infinity War",
+      "weight": 6
+    },
+    {
+      "actor_name": "Letitia Wright",
+      "movie_name": "Avengers: Infinity War",
+      "weight": 5
+    },
+    {
+      "actor_name": "Dave Bautista",
+      "movie_name": "Avengers: Infinity War",
+      "weight": 4
+    },
+    {
+      "actor_name": "Zoe Saldana",
+      "movie_name": "Avengers: Infinity War",
+      "weight": 3
+    },
+    {
+      "actor_name": "Josh Brolin",
+      "movie_name": "Avengers: Infinity War",
+      "weight": 2
+    },
+    {
+      "actor_name": "Chris Pratt",
+      "movie_name": "Avengers: Infinity War",
+      "weight": 1
+    },
+    {
+      "actor_name": "Candy Clark",
+      "movie_name": "More American Graffiti",
+      "weight": 7
+    },
+    {
+      "actor_name": "Bo Hopkins",
+      "movie_name": "More American Graffiti",
+      "weight": 6
+    },
+    {
+      "actor_name": "Ron Howard",
+      "movie_name": "More American Graffiti",
+      "weight": 5
+    },
+    {
+      "actor_name": "Paul Le Mat",
+      "movie_name": "More American Graffiti",
+      "weight": 4
+    },
+    {
+      "actor_name": "Mackenzie Phillips",
+      "movie_name": "More American Graffiti",
+      "weight": 3
+    },
+    {
+      "actor_name": "Charles Martin Smith",
+      "movie_name": "More American Graffiti",
+      "weight": 2
+    },
+    {
+      "actor_name": "Cindy Williams",
+      "movie_name": "More American Graffiti",
+      "weight": 1
+    },
+    {
+      "actor_name": "Julie Andrews",
+      "movie_name": "S.O.B.",
+      "weight": 6
+    },
+    {
+      "actor_name": "William Holden",
+      "movie_name": "S.O.B.",
+      "weight": 5
+    },
+    {
+      "actor_name": "Richard Mulligan",
+      "movie_name": "S.O.B.",
+      "weight": 4
+    },
+    {
+      "actor_name": "Robert Preston",
+      "movie_name": "S.O.B.",
+      "weight": 3
+    },
+    {
+      "actor_name": "Larry Hagman",
+      "movie_name": "S.O.B.",
+      "weight": 2
+    },
+    {
+      "actor_name": "Robert Webber",
+      "movie_name": "S.O.B.",
+      "weight": 1
+    },
+    {
+      "actor_name": "Christopher Reeve",
+      "movie_name": "The Aviator",
+      "weight": 4
+    },
+    {
+      "actor_name": "Rosanna Arquette",
+      "movie_name": "The Aviator",
+      "weight": 3
+    },
+    {
+      "actor_name": "Jack Warden",
+      "movie_name": "The Aviator",
+      "weight": 2
+    },
+    {
+      "actor_name": "Tyne Daly",
+      "movie_name": "The Aviator",
+      "weight": 1
+    },
+    {
+      "actor_name": "Rosanna Arquette",
+      "movie_name": "Desperately Seeking Susan",
+      "weight": 5
+    },
+    {
+      "actor_name": "Madonna",
+      "movie_name": "Desperately Seeking Susan",
+      "weight": 4
+    },
+    {
+      "actor_name": "Aidan Quinn",
+      "movie_name": "Desperately Seeking Susan",
+      "weight": 3
+    },
+    {
+      "actor_name": "Mark Blum",
+      "movie_name": "Desperately Seeking Susan",
+      "weight": 2
+    },
+    {
+      "actor_name": "Robert Joy",
+      "movie_name": "Desperately Seeking Susan",
+      "weight": 1
+    },
+    {
+      "actor_name": "Kevin Kline",
+      "movie_name": "Silverado",
+      "weight": 9
+    },
+    {
+      "actor_name": "Scott Glenn",
+      "movie_name": "Silverado",
+      "weight": 8
+    },
+    {
+      "actor_name": "Rosanna Arquette",
+      "movie_name": "Silverado",
+      "weight": 7
+    },
+    {
+      "actor_name": "John Cleese",
+      "movie_name": "Silverado",
+      "weight": 6
+    },
+    {
+      "actor_name": "Kevin Costner",
+      "movie_name": "Silverado",
+      "weight": 5
+    },
+    {
+      "actor_name": "Brian Dennehy",
+      "movie_name": "Silverado",
+      "weight": 4
+    },
+    {
+      "actor_name": "Danny Glover",
+      "movie_name": "Silverado",
+      "weight": 3
+    },
+    {
+      "actor_name": "Jeff Goldblum",
+      "movie_name": "Silverado",
+      "weight": 2
+    },
+    {
+      "actor_name": "Linda Hunt",
+      "movie_name": "Silverado",
+      "weight": 1
+    },
+    {
+      "actor_name": "Rosanna Arquette",
+      "movie_name": "After Hours",
+      "weight": 8
+    },
+    {
+      "actor_name": "Verna Bloom",
+      "movie_name": "After Hours",
+      "weight": 7
+    },
+    {
+      "actor_name": "Thomas Chong",
+      "movie_name": "After Hours",
+      "weight": 6
+    },
+    {
+      "actor_name": "Linda Fiorentino",
+      "movie_name": "After Hours",
+      "weight": 5
+    },
+    {
+      "actor_name": "Teri Garr",
+      "movie_name": "After Hours",
+      "weight": 4
+    },
+    {
+      "actor_name": "John Heard",
+      "movie_name": "After Hours",
+      "weight": 3
+    },
+    {
+      "actor_name": "Richard Cheech Marin",
+      "movie_name": "After Hours",
+      "weight": 2
+    },
+    {
+      "actor_name": "Catherine O'Hara",
+      "movie_name": "After Hours",
+      "weight": 1
+    },
+    {
+      "actor_name": "Jeff Bridges",
+      "movie_name": "8 Million Ways to Die",
+      "weight": 4
+    },
+    {
+      "actor_name": "Rosanna Arquette",
+      "movie_name": "8 Million Ways to Die",
+      "weight": 3
+    },
+    {
+      "actor_name": "Alexandra Paul",
+      "movie_name": "8 Million Ways to Die",
+      "weight": 2
+    },
+    {
+      "actor_name": "Andy Garcia",
+      "movie_name": "8 Million Ways to Die",
+      "weight": 1
+    },
+    {
+      "actor_name": "Rosanna Arquette",
+      "movie_name": "Nobody's Fool",
+      "weight": 5
+    },
+    {
+      "actor_name": "Eric Roberts",
+      "movie_name": "Nobody's Fool",
+      "weight": 4
+    },
+    {
+      "actor_name": "Mare Winningham",
+      "movie_name": "Nobody's Fool",
+      "weight": 3
+    },
+    {
+      "actor_name": "Jim Youngs",
+      "movie_name": "Nobody's Fool",
+      "weight": 2
+    },
+    {
+      "actor_name": "Louise Fletcher",
+      "movie_name": "Nobody's Fool",
+      "weight": 1
+    },
+    {
+      "actor_name": "Rosanna Arquette",
+      "movie_name": "Amazon Women on the Moon",
+      "weight": 19
+    },
+    {
+      "actor_name": "Paul Bartel",
+      "movie_name": "Amazon Women on the Moon",
+      "weight": 18
+    },
+    {
+      "actor_name": "Ralph Bellamy",
+      "movie_name": "Amazon Women on the Moon",
+      "weight": 17
+    },
+    {
+      "actor_name": "Carrie Fisher",
+      "movie_name": "Amazon Women on the Moon",
+      "weight": 16
+    },
+    {
+      "actor_name": "Sybil Danning",
+      "movie_name": "Amazon Women on the Moon",
+      "weight": 15
+    },
+    {
+      "actor_name": "Griffin Dunne",
+      "movie_name": "Amazon Women on the Moon",
+      "weight": 14
+    },
+    {
+      "actor_name": "Steve Forrest",
+      "movie_name": "Amazon Women on the Moon",
+      "weight": 13
+    },
+    {
+      "actor_name": "Monique Gabrielle",
+      "movie_name": "Amazon Women on the Moon",
+      "weight": 12
+    },
+    {
+      "actor_name": "Steve Allen",
+      "movie_name": "Amazon Women on the Moon",
+      "weight": 11
+    },
+    {
+      "actor_name": "Steve Guttenberg",
+      "movie_name": "Amazon Women on the Moon",
+      "weight": 10
+    },
+    {
+      "actor_name": "Arsenio Hall",
+      "movie_name": "Amazon Women on the Moon",
+      "weight": 9
+    },
+    {
+      "actor_name": "Howard Hesseman",
+      "movie_name": "Amazon Women on the Moon",
+      "weight": 8
+    },
+    {
+      "actor_name": "Lou Jacobi",
+      "movie_name": "Amazon Women on the Moon",
+      "weight": 7
+    },
+    {
+      "actor_name": "Ed Begley Jr.",
+      "movie_name": "Amazon Women on the Moon",
+      "weight": 6
+    },
+    {
+      "actor_name": "Russ Meyer",
+      "movie_name": "Amazon Women on the Moon",
+      "weight": 5
+    },
+    {
+      "actor_name": "Kelly Preston",
+      "movie_name": "Amazon Women on the Moon",
+      "weight": 4
+    },
+    {
+      "actor_name": "Henny Youngman",
+      "movie_name": "Amazon Women on the Moon",
+      "weight": 3
+    },
+    {
+      "actor_name": "B.B. King",
+      "movie_name": "Amazon Women on the Moon",
+      "weight": 2
+    },
+    {
+      "actor_name": "Lana Clarkson",
+      "movie_name": "Amazon Women on the Moon",
+      "weight": 1
+    },
+    {
+      "actor_name": "Rosanna Arquette",
+      "movie_name": "The Big Blue",
+      "weight": 7
+    },
+    {
+      "actor_name": "Jean-Marc Barr",
+      "movie_name": "The Big Blue",
+      "weight": 6
+    },
+    {
+      "actor_name": "Jean Reno",
+      "movie_name": "The Big Blue",
+      "weight": 5
+    },
+    {
+      "actor_name": "Paul Shenar",
+      "movie_name": "The Big Blue",
+      "weight": 4
+    },
+    {
+      "actor_name": "Sergio Castellitto",
+      "movie_name": "The Big Blue",
+      "weight": 3
+    },
+    {
+      "actor_name": "Marc Duret",
+      "movie_name": "The Big Blue",
+      "weight": 2
+    },
+    {
+      "actor_name": "Griffin Dunne",
+      "movie_name": "The Big Blue",
+      "weight": 1
+    },
+    {
+      "actor_name": "Rosanna Arquette",
+      "movie_name": "New York Stories",
+      "weight": 6
+    },
+    {
+      "actor_name": "Mia Farrow",
+      "movie_name": "New York Stories",
+      "weight": 5
+    },
+    {
+      "actor_name": "Giancarlo Giannini",
+      "movie_name": "New York Stories",
+      "weight": 4
+    },
+    {
+      "actor_name": "Julie Kavner",
+      "movie_name": "New York Stories",
+      "weight": 3
+    },
+    {
+      "actor_name": "Nick Nolte",
+      "movie_name": "New York Stories",
+      "weight": 2
+    },
+    {
+      "actor_name": "Talia Shire",
+      "movie_name": "New York Stories",
+      "weight": 1
+    },
+    {
+      "actor_name": "Danny Glover",
+      "movie_name": "Flight of the Intruder",
+      "weight": 5
+    },
+    {
+      "actor_name": "Willem Dafoe",
+      "movie_name": "Flight of the Intruder",
+      "weight": 4
+    },
+    {
+      "actor_name": "Brad Johnson",
+      "movie_name": "Flight of the Intruder",
+      "weight": 3
+    },
+    {
+      "actor_name": "Rosanna Arquette",
+      "movie_name": "Flight of the Intruder",
+      "weight": 2
+    },
+    {
+      "actor_name": "Tom Sizemore",
+      "movie_name": "Flight of the Intruder",
+      "weight": 1
+    },
+    {
+      "actor_name": "Jean-Claude Van Damme",
+      "movie_name": "Nowhere to Run",
+      "weight": 5
+    },
+    {
+      "actor_name": "Rosanna Arquette",
+      "movie_name": "Nowhere to Run",
+      "weight": 4
+    },
+    {
+      "actor_name": "Kieran Culkin",
+      "movie_name": "Nowhere to Run",
+      "weight": 3
+    },
+    {
+      "actor_name": "Ted Levine",
+      "movie_name": "Nowhere to Run",
+      "weight": 2
+    },
+    {
+      "actor_name": "Joss Ackland",
+      "movie_name": "Nowhere to Run",
+      "weight": 1
+    },
+    {
+      "actor_name": "John Travolta",
+      "movie_name": "Pulp Fiction",
+      "weight": 12
+    },
+    {
+      "actor_name": "Samuel L. Jackson",
+      "movie_name": "Pulp Fiction",
+      "weight": 11
+    },
+    {
+      "actor_name": "Uma Thurman",
+      "movie_name": "Pulp Fiction",
+      "weight": 10
+    },
+    {
+      "actor_name": "Harvey Keitel",
+      "movie_name": "Pulp Fiction",
+      "weight": 9
+    },
+    {
+      "actor_name": "Tim Roth",
+      "movie_name": "Pulp Fiction",
+      "weight": 8
+    },
+    {
+      "actor_name": "Amanda Plummer",
+      "movie_name": "Pulp Fiction",
+      "weight": 7
+    },
+    {
+      "actor_name": "Maria de Medeiros",
+      "movie_name": "Pulp Fiction",
+      "weight": 6
+    },
+    {
+      "actor_name": "Ving Rhames",
+      "movie_name": "Pulp Fiction",
+      "weight": 5
+    },
+    {
+      "actor_name": "Eric Stoltz",
+      "movie_name": "Pulp Fiction",
+      "weight": 4
+    },
+    {
+      "actor_name": "Rosanna Arquette",
+      "movie_name": "Pulp Fiction",
+      "weight": 3
+    },
+    {
+      "actor_name": "Christopher Walken",
+      "movie_name": "Pulp Fiction",
+      "weight": 2
+    },
+    {
+      "actor_name": "Bruce Willis",
+      "movie_name": "Pulp Fiction",
+      "weight": 1
+    },
+    {
+      "actor_name": "G\u00e9rard Darmon",
+      "movie_name": "La Cit\u00e9 de la peur",
+      "weight": 1
+    },
+    {
+      "actor_name": "Griffin Dunne",
+      "movie_name": "Search and Destroy",
+      "weight": 7
+    },
+    {
+      "actor_name": "Rosanna Arquette",
+      "movie_name": "Search and Destroy",
+      "weight": 6
+    },
+    {
+      "actor_name": "Illeana Douglas",
+      "movie_name": "Search and Destroy",
+      "weight": 5
+    },
+    {
+      "actor_name": "Ethan Hawke",
+      "movie_name": "Search and Destroy",
+      "weight": 4
+    },
+    {
+      "actor_name": "Dennis Hopper",
+      "movie_name": "Search and Destroy",
+      "weight": 3
+    },
+    {
+      "actor_name": "John Turturro",
+      "movie_name": "Search and Destroy",
+      "weight": 2
+    },
+    {
+      "actor_name": "Christopher Walken",
+      "movie_name": "Search and Destroy",
+      "weight": 1
+    },
+    {
+      "actor_name": "James Spader",
+      "movie_name": "Crash",
+      "weight": 5
+    },
+    {
+      "actor_name": "Holly Hunter",
+      "movie_name": "Crash",
+      "weight": 4
+    },
+    {
+      "actor_name": "Elias Koteas",
+      "movie_name": "Crash",
+      "weight": 3
+    },
+    {
+      "actor_name": "Deborah Kara Unger",
+      "movie_name": "Crash",
+      "weight": 2
+    },
+    {
+      "actor_name": "Rosanna Arquette",
+      "movie_name": "Crash",
+      "weight": 1
+    },
+    {
+      "actor_name": "Joe Pesci",
+      "movie_name": "Gone Fishin'",
+      "weight": 4
+    },
+    {
+      "actor_name": "Danny Glover",
+      "movie_name": "Gone Fishin'",
+      "weight": 3
+    },
+    {
+      "actor_name": "Rosanna Arquette",
+      "movie_name": "Gone Fishin'",
+      "weight": 2
+    },
+    {
+      "actor_name": "Lynn Whitfield",
+      "movie_name": "Gone Fishin'",
+      "weight": 1
+    },
+    {
+      "actor_name": "Tim Roth",
+      "movie_name": "Deceiver",
+      "weight": 6
+    },
+    {
+      "actor_name": "Chris Penn",
+      "movie_name": "Deceiver",
+      "weight": 5
+    },
+    {
+      "actor_name": "Michael Rooker",
+      "movie_name": "Deceiver",
+      "weight": 4
+    },
+    {
+      "actor_name": "Ren\u00e9e Zellweger",
+      "movie_name": "Deceiver",
+      "weight": 3
+    },
+    {
+      "actor_name": "Ellen Burstyn",
+      "movie_name": "Deceiver",
+      "weight": 2
+    },
+    {
+      "actor_name": "Rosanna Arquette",
+      "movie_name": "Deceiver",
+      "weight": 1
+    },
+    {
+      "actor_name": "Christina Ricci",
+      "movie_name": "Buffalo '66",
+      "weight": 6
+    },
+    {
+      "actor_name": "Ben Gazzara",
+      "movie_name": "Buffalo '66",
+      "weight": 5
+    },
+    {
+      "actor_name": "Mickey Rourke",
+      "movie_name": "Buffalo '66",
+      "weight": 4
+    },
+    {
+      "actor_name": "Rosanna Arquette",
+      "movie_name": "Buffalo '66",
+      "weight": 3
+    },
+    {
+      "actor_name": "Jan-Michael Vincent",
+      "movie_name": "Buffalo '66",
+      "weight": 2
+    },
+    {
+      "actor_name": "Anjelica Huston",
+      "movie_name": "Buffalo '66",
+      "weight": 1
+    },
+    {
+      "actor_name": "Sandra Bullock",
+      "movie_name": "Hope Floats",
+      "weight": 3
+    },
+    {
+      "actor_name": "Harry Connick Jr.",
+      "movie_name": "Hope Floats",
+      "weight": 2
+    },
+    {
+      "actor_name": "Gena Rowlands",
+      "movie_name": "Hope Floats",
+      "weight": 1
+    },
+    {
+      "actor_name": "Rosanna Arquette",
+      "movie_name": "Hell's Kitchen",
+      "weight": 5
+    },
+    {
+      "actor_name": "William Forsythe",
+      "movie_name": "Hell's Kitchen",
+      "weight": 4
+    },
+    {
+      "actor_name": "Angelina Jolie",
+      "movie_name": "Hell's Kitchen",
+      "weight": 3
+    },
+    {
+      "actor_name": "Mekhi Phifer",
+      "movie_name": "Hell's Kitchen",
+      "weight": 2
+    },
+    {
+      "actor_name": "Johnny Whitworth",
+      "movie_name": "Hell's Kitchen",
+      "weight": 1
+    },
+    {
+      "actor_name": "Rosanna Arquette",
+      "movie_name": "I'm Losing You",
+      "weight": 5
+    },
+    {
+      "actor_name": "Frank Langella",
+      "movie_name": "I'm Losing You",
+      "weight": 4
+    },
+    {
+      "actor_name": "Andrew McCarthy",
+      "movie_name": "I'm Losing You",
+      "weight": 3
+    },
+    {
+      "actor_name": "Elizabeth Perkins",
+      "movie_name": "I'm Losing You",
+      "weight": 2
+    },
+    {
+      "actor_name": "Norman Reedus",
+      "movie_name": "I'm Losing You",
+      "weight": 1
+    },
+    {
+      "actor_name": "Rosanna Arquette",
+      "movie_name": "Sugar Town",
+      "weight": 8
+    },
+    {
+      "actor_name": "Ally Sheedy",
+      "movie_name": "Sugar Town",
+      "weight": 7
+    },
+    {
+      "actor_name": "Beverly D'Angelo",
+      "movie_name": "Sugar Town",
+      "weight": 6
+    },
+    {
+      "actor_name": "Michael Des Barres",
+      "movie_name": "Sugar Town",
+      "weight": 5
+    },
+    {
+      "actor_name": "John Taylor",
+      "movie_name": "Sugar Town",
+      "weight": 4
+    },
+    {
+      "actor_name": "Martin Kemp",
+      "movie_name": "Sugar Town",
+      "weight": 3
+    },
+    {
+      "actor_name": "Larry Klein",
+      "movie_name": "Sugar Town",
+      "weight": 2
+    },
+    {
+      "actor_name": "John Doe",
+      "movie_name": "Sugar Town",
+      "weight": 1
+    },
+    {
+      "actor_name": "Bruce Willis",
+      "movie_name": "The Whole Nine Yards",
+      "weight": 7
+    },
+    {
+      "actor_name": "Matthew Perry",
+      "movie_name": "The Whole Nine Yards",
+      "weight": 6
+    },
+    {
+      "actor_name": "Rosanna Arquette",
+      "movie_name": "The Whole Nine Yards",
+      "weight": 5
+    },
+    {
+      "actor_name": "Michael Clarke Duncan",
+      "movie_name": "The Whole Nine Yards",
+      "weight": 4
+    },
+    {
+      "actor_name": "Natasha Henstridge",
+      "movie_name": "The Whole Nine Yards",
+      "weight": 3
+    },
+    {
+      "actor_name": "Amanda Peet",
+      "movie_name": "The Whole Nine Yards",
+      "weight": 2
+    },
+    {
+      "actor_name": "Kevin Pollak",
+      "movie_name": "The Whole Nine Yards",
+      "weight": 1
+    },
+    {
+      "actor_name": "Brittany Daniel",
+      "movie_name": "Joe Dirt",
+      "weight": 6
+    },
+    {
+      "actor_name": "Dennis Miller",
+      "movie_name": "Joe Dirt",
+      "weight": 5
+    },
+    {
+      "actor_name": "Adam Beach",
+      "movie_name": "Joe Dirt",
+      "weight": 4
+    },
+    {
+      "actor_name": "Christopher Walken",
+      "movie_name": "Joe Dirt",
+      "weight": 3
+    },
+    {
+      "actor_name": "Jaime Pressly",
+      "movie_name": "Joe Dirt",
+      "weight": 2
+    },
+    {
+      "actor_name": "Kid Rock",
+      "movie_name": "Joe Dirt",
+      "weight": 1
+    },
+    {
+      "actor_name": "Arliss Howard",
+      "movie_name": "Big Bad Love",
+      "weight": 6
+    },
+    {
+      "actor_name": "Debra Winger",
+      "movie_name": "Big Bad Love",
+      "weight": 5
+    },
+    {
+      "actor_name": "Paul Le Mat",
+      "movie_name": "Big Bad Love",
+      "weight": 4
+    },
+    {
+      "actor_name": "Rosanna Arquette",
+      "movie_name": "Big Bad Love",
+      "weight": 3
+    },
+    {
+      "actor_name": "Angie Dickinson",
+      "movie_name": "Big Bad Love",
+      "weight": 2
+    },
+    {
+      "actor_name": "Michael Parks",
+      "movie_name": "Big Bad Love",
+      "weight": 1
+    },
+    {
+      "actor_name": "Gregory Smith",
+      "movie_name": "Kids in America",
+      "weight": 1
+    },
+    {
+      "actor_name": "Evan Rachel Wood",
+      "movie_name": "Battle for Terra",
+      "weight": 10
+    },
+    {
+      "actor_name": "Brian Cox",
+      "movie_name": "Battle for Terra",
+      "weight": 9
+    },
+    {
+      "actor_name": "James Garner",
+      "movie_name": "Battle for Terra",
+      "weight": 8
+    },
+    {
+      "actor_name": "Chris Evans",
+      "movie_name": "Battle for Terra",
+      "weight": 7
+    },
+    {
+      "actor_name": "Danny Glover",
+      "movie_name": "Battle for Terra",
+      "weight": 6
+    },
+    {
+      "actor_name": "Amanda Peet",
+      "movie_name": "Battle for Terra",
+      "weight": 5
+    },
+    {
+      "actor_name": "David Cross",
+      "movie_name": "Battle for Terra",
+      "weight": 4
+    },
+    {
+      "actor_name": "Justin Long",
+      "movie_name": "Battle for Terra",
+      "weight": 3
+    },
+    {
+      "actor_name": "Dennis Quaid",
+      "movie_name": "Battle for Terra",
+      "weight": 2
+    },
+    {
+      "actor_name": "Luke Wilson",
+      "movie_name": "Battle for Terra",
+      "weight": 1
+    },
+    {
+      "actor_name": "Bug Hall",
+      "movie_name": "American Pie Presents: The Book of Love",
+      "weight": 10
+    },
+    {
+      "actor_name": "Brandon Hardesty",
+      "movie_name": "American Pie Presents: The Book of Love",
+      "weight": 9
+    },
+    {
+      "actor_name": "Beth Behrs",
+      "movie_name": "American Pie Presents: The Book of Love",
+      "weight": 8
+    },
+    {
+      "actor_name": "Melanie Papalia",
+      "movie_name": "American Pie Presents: The Book of Love",
+      "weight": 7
+    },
+    {
+      "actor_name": "Louisa Lytton",
+      "movie_name": "American Pie Presents: The Book of Love",
+      "weight": 6
+    },
+    {
+      "actor_name": "Sherman Hemsley",
+      "movie_name": "American Pie Presents: The Book of Love",
+      "weight": 5
+    },
+    {
+      "actor_name": "Curtis Armstrong",
+      "movie_name": "American Pie Presents: The Book of Love",
+      "weight": 4
+    },
+    {
+      "actor_name": "Jim Wynorski",
+      "movie_name": "American Pie Presents: The Book of Love",
+      "weight": 3
+    },
+    {
+      "actor_name": "Rosanna Arquette",
+      "movie_name": "American Pie Presents: The Book of Love",
+      "weight": 2
+    },
+    {
+      "actor_name": "Eugene Levy",
+      "movie_name": "American Pie Presents: The Book of Love",
+      "weight": 1
+    },
+    {
+      "actor_name": "Dermot Mulroney",
+      "movie_name": "Inhale",
+      "weight": 3
+    },
+    {
+      "actor_name": "Diane Kruger",
+      "movie_name": "Inhale",
+      "weight": 2
+    },
+    {
+      "actor_name": "Sam Shepard",
+      "movie_name": "Inhale",
+      "weight": 1
+    },
+    {
+      "actor_name": "Lauren German",
+      "movie_name": "The Divide",
+      "weight": 8
+    },
+    {
+      "actor_name": "Michael Biehn",
+      "movie_name": "The Divide",
+      "weight": 7
+    },
+    {
+      "actor_name": "Milo Ventimiglia",
+      "movie_name": "The Divide",
+      "weight": 6
+    },
+    {
+      "actor_name": "Courtney B. Vance",
+      "movie_name": "The Divide",
+      "weight": 5
+    },
+    {
+      "actor_name": "Michael Eklund",
+      "movie_name": "The Divide",
+      "weight": 4
+    },
+    {
+      "actor_name": "Abbey Thickson",
+      "movie_name": "The Divide",
+      "weight": 3
+    },
+    {
+      "actor_name": "Ashton Holmes",
+      "movie_name": "The Divide",
+      "weight": 2
+    },
+    {
+      "actor_name": "Rosanna Arquette",
+      "movie_name": "The Divide",
+      "weight": 1
+    },
+    {
+      "actor_name": "Jane Fonda",
+      "movie_name": "Peace, Love & Misunderstanding",
+      "weight": 5
+    },
+    {
+      "actor_name": "Catherine Keener",
+      "movie_name": "Peace, Love & Misunderstanding",
+      "weight": 4
+    },
+    {
+      "actor_name": "Jeffrey Dean Morgan",
+      "movie_name": "Peace, Love & Misunderstanding",
+      "weight": 3
+    },
+    {
+      "actor_name": "Chace Crawford",
+      "movie_name": "Peace, Love & Misunderstanding",
+      "weight": 2
+    },
+    {
+      "actor_name": "Elizabeth Olsen",
+      "movie_name": "Peace, Love & Misunderstanding",
+      "weight": 1
+    },
+    {
+      "actor_name": "Kevin Costner",
+      "movie_name": "Draft Day",
+      "weight": 7
+    },
+    {
+      "actor_name": "Jennifer Garner",
+      "movie_name": "Draft Day",
+      "weight": 6
+    },
+    {
+      "actor_name": "Denis Leary",
+      "movie_name": "Draft Day",
+      "weight": 5
+    },
+    {
+      "actor_name": "Frank Langella",
+      "movie_name": "Draft Day",
+      "weight": 4
+    },
+    {
+      "actor_name": "Sam Elliott",
+      "movie_name": "Draft Day",
+      "weight": 3
+    },
+    {
+      "actor_name": "Ellen Burstyn",
+      "movie_name": "Draft Day",
+      "weight": 2
+    },
+    {
+      "actor_name": "Chadwick Boseman",
+      "movie_name": "Draft Day",
+      "weight": 1
+    },
+    {
+      "actor_name": "Nicholas Hoult",
+      "movie_name": "Kill Your Friends",
+      "weight": 11
+    },
+    {
+      "actor_name": "James Corden",
+      "movie_name": "Kill Your Friends",
+      "weight": 10
+    },
+    {
+      "actor_name": "Georgia King",
+      "movie_name": "Kill Your Friends",
+      "weight": 9
+    },
+    {
+      "actor_name": "Craig Roberts",
+      "movie_name": "Kill Your Friends",
+      "weight": 8
+    },
+    {
+      "actor_name": "Jim Piddock",
+      "movie_name": "Kill Your Friends",
+      "weight": 7
+    },
+    {
+      "actor_name": "Joseph Mawle",
+      "movie_name": "Kill Your Friends",
+      "weight": 6
+    },
+    {
+      "actor_name": "Ed Skrein",
+      "movie_name": "Kill Your Friends",
+      "weight": 5
+    },
+    {
+      "actor_name": "Tom Riley",
+      "movie_name": "Kill Your Friends",
+      "weight": 4
+    },
+    {
+      "actor_name": "Ed Hogg",
+      "movie_name": "Kill Your Friends",
+      "weight": 3
+    },
+    {
+      "actor_name": "Rosanna Arquette",
+      "movie_name": "Kill Your Friends",
+      "weight": 2
+    },
+    {
+      "actor_name": "Moritz Bleibtreu",
+      "movie_name": "Kill Your Friends",
+      "weight": 1
+    },
+    {
+      "actor_name": "Michael Shannon",
+      "movie_name": "Frank & Lola",
+      "weight": 6
+    },
+    {
+      "actor_name": "Imogen Poots",
+      "movie_name": "Frank & Lola",
+      "weight": 5
+    },
+    {
+      "actor_name": "Michael Nyqvist",
+      "movie_name": "Frank & Lola",
+      "weight": 4
+    },
+    {
+      "actor_name": "Justin Long",
+      "movie_name": "Frank & Lola",
+      "weight": 3
+    },
+    {
+      "actor_name": "Rosanna Arquette",
+      "movie_name": "Frank & Lola",
+      "weight": 2
+    },
+    {
+      "actor_name": "Emmanuelle Devos",
+      "movie_name": "Frank & Lola",
+      "weight": 1
+    },
+    {
+      "actor_name": "Jena Malone",
+      "movie_name": "Lovesong",
+      "weight": 7
+    },
+    {
+      "actor_name": "Riley Keough",
+      "movie_name": "Lovesong",
+      "weight": 6
+    },
+    {
+      "actor_name": "Brooklyn Decker",
+      "movie_name": "Lovesong",
+      "weight": 5
+    },
+    {
+      "actor_name": "Amy Seimetz",
+      "movie_name": "Lovesong",
+      "weight": 4
+    },
+    {
+      "actor_name": "Marshall Chapman",
+      "movie_name": "Lovesong",
+      "weight": 3
+    },
+    {
+      "actor_name": "Ryan Eggold",
+      "movie_name": "Lovesong",
+      "weight": 2
+    },
+    {
+      "actor_name": "Rosanna Arquette",
+      "movie_name": "Lovesong",
+      "weight": 1
+    },
+    {
+      "actor_name": "Ansel Elgort",
+      "movie_name": "Billionaire Boys Club",
+      "weight": 9
+    },
+    {
+      "actor_name": "Taron Egerton",
+      "movie_name": "Billionaire Boys Club",
+      "weight": 8
+    },
+    {
+      "actor_name": "Kevin Spacey",
+      "movie_name": "Billionaire Boys Club",
+      "weight": 7
+    },
+    {
+      "actor_name": "Emma Roberts",
+      "movie_name": "Billionaire Boys Club",
+      "weight": 6
+    },
+    {
+      "actor_name": "Jeremy Irvine",
+      "movie_name": "Billionaire Boys Club",
+      "weight": 5
+    },
+    {
+      "actor_name": "Thomas Cocquerel",
+      "movie_name": "Billionaire Boys Club",
+      "weight": 4
+    },
+    {
+      "actor_name": "Rosanna Arquette",
+      "movie_name": "Billionaire Boys Club",
+      "weight": 3
+    },
+    {
+      "actor_name": "Cary Elwes",
+      "movie_name": "Billionaire Boys Club",
+      "weight": 2
+    },
+    {
+      "actor_name": "Judd Nelson",
+      "movie_name": "Billionaire Boys Club",
+      "weight": 1
+    },
+    {
+      "actor_name": "Tom Berenger",
+      "movie_name": "Butch and Sundance: The Early Days",
+      "weight": 6
+    },
+    {
+      "actor_name": "William Katt",
+      "movie_name": "Butch and Sundance: The Early Days",
+      "weight": 5
+    },
+    {
+      "actor_name": "Michael C. Gwynne",
+      "movie_name": "Butch and Sundance: The Early Days",
+      "weight": 4
+    },
+    {
+      "actor_name": "Peter Weller",
+      "movie_name": "Butch and Sundance: The Early Days",
+      "weight": 3
+    },
+    {
+      "actor_name": "Brian Dennehy",
+      "movie_name": "Butch and Sundance: The Early Days",
+      "weight": 2
+    },
+    {
+      "actor_name": "Christopher Lloyd",
+      "movie_name": "Butch and Sundance: The Early Days",
+      "weight": 1
+    },
+    {
+      "actor_name": "Alan King",
+      "movie_name": "Just Tell Me What You Want",
+      "weight": 2
+    },
+    {
+      "actor_name": "Ali MacGraw",
+      "movie_name": "Just Tell Me What You Want",
+      "weight": 1
+    },
+    {
+      "actor_name": "Albert Finney",
+      "movie_name": "Shoot the Moon",
+      "weight": 5
+    },
+    {
+      "actor_name": "Diane Keaton",
+      "movie_name": "Shoot the Moon",
+      "weight": 4
+    },
+    {
+      "actor_name": "Karen Allen",
+      "movie_name": "Shoot the Moon",
+      "weight": 3
+    },
+    {
+      "actor_name": "Peter Weller",
+      "movie_name": "Shoot the Moon",
+      "weight": 2
+    },
+    {
+      "actor_name": "Dana Hill",
+      "movie_name": "Shoot the Moon",
+      "weight": 1
+    },
+    {
+      "actor_name": "Peter Weller",
+      "movie_name": "Of Unknown Origin",
+      "weight": 5
+    },
+    {
+      "actor_name": "Jennifer Dale",
+      "movie_name": "Of Unknown Origin",
+      "weight": 4
+    },
+    {
+      "actor_name": "Lawrence Dane",
+      "movie_name": "Of Unknown Origin",
+      "weight": 3
+    },
+    {
+      "actor_name": "Kenneth Welsh",
+      "movie_name": "Of Unknown Origin",
+      "weight": 2
+    },
+    {
+      "actor_name": "Louis Del Grande",
+      "movie_name": "Of Unknown Origin",
+      "weight": 1
+    },
+    {
+      "actor_name": "Peter Weller",
+      "movie_name": "The Adventures of Buckaroo Banzai Across the 8th Dimension",
+      "weight": 5
+    },
+    {
+      "actor_name": "Ellen Barkin",
+      "movie_name": "The Adventures of Buckaroo Banzai Across the 8th Dimension",
+      "weight": 4
+    },
+    {
+      "actor_name": "John Lithgow",
+      "movie_name": "The Adventures of Buckaroo Banzai Across the 8th Dimension",
+      "weight": 3
+    },
+    {
+      "actor_name": "Jeff Goldblum",
+      "movie_name": "The Adventures of Buckaroo Banzai Across the 8th Dimension",
+      "weight": 2
+    },
+    {
+      "actor_name": "Christopher Lloyd",
+      "movie_name": "The Adventures of Buckaroo Banzai Across the 8th Dimension",
+      "weight": 1
+    },
+    {
+      "actor_name": "Peter Weller",
+      "movie_name": "A Killing Affair",
+      "weight": 4
+    },
+    {
+      "actor_name": "Kathy Baker",
+      "movie_name": "A Killing Affair",
+      "weight": 3
+    },
+    {
+      "actor_name": "John Glover",
+      "movie_name": "A Killing Affair",
+      "weight": 2
+    },
+    {
+      "actor_name": "Bill Smitrovich",
+      "movie_name": "A Killing Affair",
+      "weight": 1
+    },
+    {
+      "actor_name": "Peter Weller",
+      "movie_name": "RoboCop",
+      "weight": 6
+    },
+    {
+      "actor_name": "Nancy Allen",
+      "movie_name": "RoboCop",
+      "weight": 5
+    },
+    {
+      "actor_name": "Daniel O'Herlihy",
+      "movie_name": "RoboCop",
+      "weight": 4
+    },
+    {
+      "actor_name": "Ronny Cox",
+      "movie_name": "RoboCop",
+      "weight": 3
+    },
+    {
+      "actor_name": "Kurtwood Smith",
+      "movie_name": "RoboCop",
+      "weight": 2
+    },
+    {
+      "actor_name": "Miguel Ferrer",
+      "movie_name": "RoboCop",
+      "weight": 1
+    },
+    {
+      "actor_name": "Peter Weller",
+      "movie_name": "Shakedown",
+      "weight": 5
+    },
+    {
+      "actor_name": "Sam Elliott",
+      "movie_name": "Shakedown",
+      "weight": 4
+    },
+    {
+      "actor_name": "Patricia Charbonneau",
+      "movie_name": "Shakedown",
+      "weight": 3
+    },
+    {
+      "actor_name": "Antonio Fargas",
+      "movie_name": "Shakedown",
+      "weight": 2
+    },
+    {
+      "actor_name": "Blanche Baker",
+      "movie_name": "Shakedown",
+      "weight": 1
+    },
+    {
+      "actor_name": "Peter Weller",
+      "movie_name": "Leviathan",
+      "weight": 8
+    },
+    {
+      "actor_name": "Richard Crenna",
+      "movie_name": "Leviathan",
+      "weight": 7
+    },
+    {
+      "actor_name": "Amanda Pays",
+      "movie_name": "Leviathan",
+      "weight": 6
+    },
+    {
+      "actor_name": "Daniel Stern",
+      "movie_name": "Leviathan",
+      "weight": 5
+    },
+    {
+      "actor_name": "Ernie Hudson",
+      "movie_name": "Leviathan",
+      "weight": 4
+    },
+    {
+      "actor_name": "Michael Carmine",
+      "movie_name": "Leviathan",
+      "weight": 3
+    },
+    {
+      "actor_name": "Lisa Eilbacher",
+      "movie_name": "Leviathan",
+      "weight": 2
+    },
+    {
+      "actor_name": "Hector Elizondo",
+      "movie_name": "Leviathan",
+      "weight": 1
+    },
+    {
+      "actor_name": "Peter Weller",
+      "movie_name": "RoboCop 2",
+      "weight": 6
+    },
+    {
+      "actor_name": "Nancy Allen",
+      "movie_name": "RoboCop 2",
+      "weight": 5
+    },
+    {
+      "actor_name": "Daniel O'Herlihy",
+      "movie_name": "RoboCop 2",
+      "weight": 4
+    },
+    {
+      "actor_name": "Tom Noonan",
+      "movie_name": "RoboCop 2",
+      "weight": 3
+    },
+    {
+      "actor_name": "Belinda Bauer",
+      "movie_name": "RoboCop 2",
+      "weight": 2
+    },
+    {
+      "actor_name": "Gabriel Damon",
+      "movie_name": "RoboCop 2",
+      "weight": 1
+    },
+    {
+      "actor_name": "Peter Weller",
+      "movie_name": "Naked Lunch",
+      "weight": 5
+    },
+    {
+      "actor_name": "Judy Davis",
+      "movie_name": "Naked Lunch",
+      "weight": 4
+    },
+    {
+      "actor_name": "Ian Holm",
+      "movie_name": "Naked Lunch",
+      "weight": 3
+    },
+    {
+      "actor_name": "Julian Sands",
+      "movie_name": "Naked Lunch",
+      "weight": 2
+    },
+    {
+      "actor_name": "Roy Scheider",
+      "movie_name": "Naked Lunch",
+      "weight": 1
+    },
+    {
+      "actor_name": "Peter Weller",
+      "movie_name": "The New Age",
+      "weight": 8
+    },
+    {
+      "actor_name": "Judy Davis",
+      "movie_name": "The New Age",
+      "weight": 7
+    },
+    {
+      "actor_name": "Patrick Bauchau",
+      "movie_name": "The New Age",
+      "weight": 6
+    },
+    {
+      "actor_name": "Rachel Rosenthal",
+      "movie_name": "The New Age",
+      "weight": 5
+    },
+    {
+      "actor_name": "Adam West",
+      "movie_name": "The New Age",
+      "weight": 4
+    },
+    {
+      "actor_name": "Corbin Bernsen",
+      "movie_name": "The New Age",
+      "weight": 3
+    },
+    {
+      "actor_name": "Patricia Heaton",
+      "movie_name": "The New Age",
+      "weight": 2
+    },
+    {
+      "actor_name": "Samuel L. Jackson",
+      "movie_name": "The New Age",
+      "weight": 1
+    },
+    {
+      "actor_name": "Fanny Ardant",
+      "movie_name": "Beyond the Clouds",
+      "weight": 12
+    },
+    {
+      "actor_name": "Chiara Caselli",
+      "movie_name": "Beyond the Clouds",
+      "weight": 11
+    },
+    {
+      "actor_name": "Ir\u00e8ne Jacob",
+      "movie_name": "Beyond the Clouds",
+      "weight": 10
+    },
+    {
+      "actor_name": "John Malkovich",
+      "movie_name": "Beyond the Clouds",
+      "weight": 9
+    },
+    {
+      "actor_name": "Sophie Marceau",
+      "movie_name": "Beyond the Clouds",
+      "weight": 8
+    },
+    {
+      "actor_name": "Vincent Perez",
+      "movie_name": "Beyond the Clouds",
+      "weight": 7
+    },
+    {
+      "actor_name": "Jean Reno",
+      "movie_name": "Beyond the Clouds",
+      "weight": 6
+    },
+    {
+      "actor_name": "Kim Rossi Stuart",
+      "movie_name": "Beyond the Clouds",
+      "weight": 5
+    },
+    {
+      "actor_name": "In\u00e9s Sastre",
+      "movie_name": "Beyond the Clouds",
+      "weight": 4
+    },
+    {
+      "actor_name": "Peter Weller",
+      "movie_name": "Beyond the Clouds",
+      "weight": 3
+    },
+    {
+      "actor_name": "Marcello Mastroianni",
+      "movie_name": "Beyond the Clouds",
+      "weight": 2
+    },
+    {
+      "actor_name": "Jeanne Moreau",
+      "movie_name": "Beyond the Clouds",
+      "weight": 1
+    },
+    {
+      "actor_name": "Peter Weller",
+      "movie_name": "Screamers",
+      "weight": 4
+    },
+    {
+      "actor_name": "Roy Dupuis",
+      "movie_name": "Screamers",
+      "weight": 3
+    },
+    {
+      "actor_name": "Jennifer Rubin",
+      "movie_name": "Screamers",
+      "weight": 2
+    },
+    {
+      "actor_name": "Andy Lauer",
+      "movie_name": "Screamers",
+      "weight": 1
+    },
+    {
+      "actor_name": "F. Murray Abraham",
+      "movie_name": "Mighty Aphrodite",
+      "weight": 9
+    },
+    {
+      "actor_name": "Claire Bloom",
+      "movie_name": "Mighty Aphrodite",
+      "weight": 8
+    },
+    {
+      "actor_name": "Helena Bonham Carter",
+      "movie_name": "Mighty Aphrodite",
+      "weight": 7
+    },
+    {
+      "actor_name": "Olympia Dukakis",
+      "movie_name": "Mighty Aphrodite",
+      "weight": 6
+    },
+    {
+      "actor_name": "Michael Rapaport",
+      "movie_name": "Mighty Aphrodite",
+      "weight": 5
+    },
+    {
+      "actor_name": "Mira Sorvino",
+      "movie_name": "Mighty Aphrodite",
+      "weight": 4
+    },
+    {
+      "actor_name": "David Ogden Stiers",
+      "movie_name": "Mighty Aphrodite",
+      "weight": 3
+    },
+    {
+      "actor_name": "Jack Warden",
+      "movie_name": "Mighty Aphrodite",
+      "weight": 2
+    },
+    {
+      "actor_name": "Peter Weller",
+      "movie_name": "Mighty Aphrodite",
+      "weight": 1
+    },
+    {
+      "actor_name": "Balthazar Getty",
+      "movie_name": "Shadow Hours",
+      "weight": 3
+    },
+    {
+      "actor_name": "Peter Weller",
+      "movie_name": "Shadow Hours",
+      "weight": 2
+    },
+    {
+      "actor_name": "Rebecca Gayheart",
+      "movie_name": "Shadow Hours",
+      "weight": 1
+    },
+    {
+      "actor_name": "Danny Huston",
+      "movie_name": "Ivans Xtc",
+      "weight": 2
+    },
+    {
+      "actor_name": "Peter Weller",
+      "movie_name": "Ivans Xtc",
+      "weight": 1
+    },
+    {
+      "actor_name": "Heath Ledger",
+      "movie_name": "The Order",
+      "weight": 5
+    },
+    {
+      "actor_name": "Shannyn Sossamon",
+      "movie_name": "The Order",
+      "weight": 4
+    },
+    {
+      "actor_name": "Benno F\u00fcrmann",
+      "movie_name": "The Order",
+      "weight": 3
+    },
+    {
+      "actor_name": "Mark Addy",
+      "movie_name": "The Order",
+      "weight": 2
+    },
+    {
+      "actor_name": "Peter Weller",
+      "movie_name": "The Order",
+      "weight": 1
+    },
+    {
+      "actor_name": "John Cho",
+      "movie_name": "Star Trek Into Darkness",
+      "weight": 11
+    },
+    {
+      "actor_name": "Benedict Cumberbatch",
+      "movie_name": "Star Trek Into Darkness",
+      "weight": 10
+    },
+    {
+      "actor_name": "Alice Eve",
+      "movie_name": "Star Trek Into Darkness",
+      "weight": 9
+    },
+    {
+      "actor_name": "Bruce Greenwood",
+      "movie_name": "Star Trek Into Darkness",
+      "weight": 8
+    },
+    {
+      "actor_name": "Simon Pegg",
+      "movie_name": "Star Trek Into Darkness",
+      "weight": 7
+    },
+    {
+      "actor_name": "Chris Pine",
+      "movie_name": "Star Trek Into Darkness",
+      "weight": 6
+    },
+    {
+      "actor_name": "Zachary Quinto",
+      "movie_name": "Star Trek Into Darkness",
+      "weight": 5
+    },
+    {
+      "actor_name": "Zoe Saldana",
+      "movie_name": "Star Trek Into Darkness",
+      "weight": 4
+    },
+    {
+      "actor_name": "Karl Urban",
+      "movie_name": "Star Trek Into Darkness",
+      "weight": 3
+    },
+    {
+      "actor_name": "Peter Weller",
+      "movie_name": "Star Trek Into Darkness",
+      "weight": 2
+    },
+    {
+      "actor_name": "Anton Yelchin",
+      "movie_name": "Star Trek Into Darkness",
+      "weight": 1
+    },
+    {
+      "actor_name": "Tony Jaa",
+      "movie_name": "Skin Trade",
+      "weight": 4
+    },
+    {
+      "actor_name": "Michael Jai White",
+      "movie_name": "Skin Trade",
+      "weight": 3
+    },
+    {
+      "actor_name": "Ron Perlman",
+      "movie_name": "Skin Trade",
+      "weight": 2
+    },
+    {
+      "actor_name": "Peter Weller",
+      "movie_name": "Skin Trade",
+      "weight": 1
+    },
+    {
+      "actor_name": "John Lithgow",
+      "movie_name": "The Manhattan Project",
+      "weight": 3
+    },
+    {
+      "actor_name": "Christopher Collet",
+      "movie_name": "The Manhattan Project",
+      "weight": 2
+    },
+    {
+      "actor_name": "Cynthia Nixon",
+      "movie_name": "The Manhattan Project",
+      "weight": 1
+    },
+    {
+      "actor_name": "Brooke Shields",
+      "movie_name": "Endless Love",
+      "weight": 7
+    },
+    {
+      "actor_name": "Martin Hewitt",
+      "movie_name": "Endless Love",
+      "weight": 6
+    },
+    {
+      "actor_name": "Shirley Knight",
+      "movie_name": "Endless Love",
+      "weight": 5
+    },
+    {
+      "actor_name": "Don Murray",
+      "movie_name": "Endless Love",
+      "weight": 4
+    },
+    {
+      "actor_name": "Richard Kiley",
+      "movie_name": "Endless Love",
+      "weight": 3
+    },
+    {
+      "actor_name": "Beatrice Straight",
+      "movie_name": "Endless Love",
+      "weight": 2
+    },
+    {
+      "actor_name": "James Spader",
+      "movie_name": "Endless Love",
+      "weight": 1
+    },
+    {
+      "actor_name": "Lori Loughlin",
+      "movie_name": "The New Kids",
+      "weight": 5
+    },
+    {
+      "actor_name": "James Spader",
+      "movie_name": "The New Kids",
+      "weight": 4
+    },
+    {
+      "actor_name": "Eddie Jones",
+      "movie_name": "The New Kids",
+      "weight": 3
+    },
+    {
+      "actor_name": "Eric Stoltz",
+      "movie_name": "The New Kids",
+      "weight": 2
+    },
+    {
+      "actor_name": "Tom Atkins",
+      "movie_name": "The New Kids",
+      "weight": 1
+    },
+    {
+      "actor_name": "Molly Ringwald",
+      "movie_name": "Pretty in Pink",
+      "weight": 6
+    },
+    {
+      "actor_name": "Harry Dean Stanton",
+      "movie_name": "Pretty in Pink",
+      "weight": 5
+    },
+    {
+      "actor_name": "Jon Cryer",
+      "movie_name": "Pretty in Pink",
+      "weight": 4
+    },
+    {
+      "actor_name": "Annie Potts",
+      "movie_name": "Pretty in Pink",
+      "weight": 3
+    },
+    {
+      "actor_name": "James Spader",
+      "movie_name": "Pretty in Pink",
+      "weight": 2
+    },
+    {
+      "actor_name": "Andrew McCarthy",
+      "movie_name": "Pretty in Pink",
+      "weight": 1
+    },
+    {
+      "actor_name": "Andrew McCarthy",
+      "movie_name": "Mannequin",
+      "weight": 4
+    },
+    {
+      "actor_name": "Kim Cattrall",
+      "movie_name": "Mannequin",
+      "weight": 3
+    },
+    {
+      "actor_name": "Estelle Getty",
+      "movie_name": "Mannequin",
+      "weight": 2
+    },
+    {
+      "actor_name": "G. W. Bailey",
+      "movie_name": "Mannequin",
+      "weight": 1
+    },
+    {
+      "actor_name": "Diane Keaton",
+      "movie_name": "Baby Boom",
+      "weight": 4
+    },
+    {
+      "actor_name": "Harold Ramis",
+      "movie_name": "Baby Boom",
+      "weight": 3
+    },
+    {
+      "actor_name": "Sam Wanamaker",
+      "movie_name": "Baby Boom",
+      "weight": 2
+    },
+    {
+      "actor_name": "Sam Shepard",
+      "movie_name": "Baby Boom",
+      "weight": 1
+    },
+    {
+      "actor_name": "Michael Douglas",
+      "movie_name": "Wall Street",
+      "weight": 6
+    },
+    {
+      "actor_name": "Charlie Sheen",
+      "movie_name": "Wall Street",
+      "weight": 5
+    },
+    {
+      "actor_name": "Daryl Hannah",
+      "movie_name": "Wall Street",
+      "weight": 4
+    },
+    {
+      "actor_name": "Martin Sheen",
+      "movie_name": "Wall Street",
+      "weight": 3
+    },
+    {
+      "actor_name": "Hal Holbrook",
+      "movie_name": "Wall Street",
+      "weight": 2
+    },
+    {
+      "actor_name": "Terence Stamp",
+      "movie_name": "Wall Street",
+      "weight": 1
+    },
+    {
+      "actor_name": "James Spader",
+      "movie_name": "Jack's Back",
+      "weight": 3
+    },
+    {
+      "actor_name": "Cynthia Gibb",
+      "movie_name": "Jack's Back",
+      "weight": 2
+    },
+    {
+      "actor_name": "Robert Picardo",
+      "movie_name": "Jack's Back",
+      "weight": 1
+    },
+    {
+      "actor_name": "James Spader",
+      "movie_name": "Sex, Lies, and Videotape",
+      "weight": 4
+    },
+    {
+      "actor_name": "Andie MacDowell",
+      "movie_name": "Sex, Lies, and Videotape",
+      "weight": 3
+    },
+    {
+      "actor_name": "Peter Gallagher",
+      "movie_name": "Sex, Lies, and Videotape",
+      "weight": 2
+    },
+    {
+      "actor_name": "Laura San Giacomo",
+      "movie_name": "Sex, Lies, and Videotape",
+      "weight": 1
+    },
+    {
+      "actor_name": "Dexter Fletcher",
+      "movie_name": "The Rachel Papers",
+      "weight": 4
+    },
+    {
+      "actor_name": "Ione Skye",
+      "movie_name": "The Rachel Papers",
+      "weight": 3
+    },
+    {
+      "actor_name": "Jonathan Pryce",
+      "movie_name": "The Rachel Papers",
+      "weight": 2
+    },
+    {
+      "actor_name": "James Spader",
+      "movie_name": "The Rachel Papers",
+      "weight": 1
+    },
+    {
+      "actor_name": "Rob Lowe",
+      "movie_name": "Bad Influence",
+      "weight": 2
+    },
+    {
+      "actor_name": "James Spader",
+      "movie_name": "Bad Influence",
+      "weight": 1
+    },
+    {
+      "actor_name": "Susan Sarandon",
+      "movie_name": "White Palace",
+      "weight": 2
+    },
+    {
+      "actor_name": "James Spader",
+      "movie_name": "White Palace",
+      "weight": 1
+    },
+    {
+      "actor_name": "John Cusack",
+      "movie_name": "True Colors",
+      "weight": 5
+    },
+    {
+      "actor_name": "James Spader",
+      "movie_name": "True Colors",
+      "weight": 4
+    },
+    {
+      "actor_name": "Imogen Stubbs",
+      "movie_name": "True Colors",
+      "weight": 3
+    },
+    {
+      "actor_name": "Mandy Patinkin",
+      "movie_name": "True Colors",
+      "weight": 2
+    },
+    {
+      "actor_name": "Richard Widmark",
+      "movie_name": "True Colors",
+      "weight": 1
+    },
+    {
+      "actor_name": "James Spader",
+      "movie_name": "Storyville",
+      "weight": 6
+    },
+    {
+      "actor_name": "Joanne Whalley-Kilmer",
+      "movie_name": "Storyville",
+      "weight": 5
+    },
+    {
+      "actor_name": "Jason Robards",
+      "movie_name": "Storyville",
+      "weight": 4
+    },
+    {
+      "actor_name": "Charlotte Lewis",
+      "movie_name": "Storyville",
+      "weight": 3
+    },
+    {
+      "actor_name": "Michael Warren",
+      "movie_name": "Storyville",
+      "weight": 2
+    },
+    {
+      "actor_name": "Piper Laurie",
+      "movie_name": "Storyville",
+      "weight": 1
+    },
+    {
+      "actor_name": "Giancarlo Esposito",
+      "movie_name": "Bob Roberts",
+      "weight": 9
+    },
+    {
+      "actor_name": "Ray Wise",
+      "movie_name": "Bob Roberts",
+      "weight": 8
+    },
+    {
+      "actor_name": "Gore Vidal",
+      "movie_name": "Bob Roberts",
+      "weight": 7
+    },
+    {
+      "actor_name": "John Cusack",
+      "movie_name": "Bob Roberts",
+      "weight": 6
+    },
+    {
+      "actor_name": "Peter Gallagher",
+      "movie_name": "Bob Roberts",
+      "weight": 5
+    },
+    {
+      "actor_name": "Alan Rickman",
+      "movie_name": "Bob Roberts",
+      "weight": 4
+    },
+    {
+      "actor_name": "Susan Sarandon",
+      "movie_name": "Bob Roberts",
+      "weight": 3
+    },
+    {
+      "actor_name": "James Spader",
+      "movie_name": "Bob Roberts",
+      "weight": 2
+    },
+    {
+      "actor_name": "Fred Ward",
+      "movie_name": "Bob Roberts",
+      "weight": 1
+    },
+    {
+      "actor_name": "James Spader",
+      "movie_name": "Dream Lover",
+      "weight": 5
+    },
+    {
+      "actor_name": "M\u00e4dchen Amick",
+      "movie_name": "Dream Lover",
+      "weight": 4
+    },
+    {
+      "actor_name": "Bess Armstrong",
+      "movie_name": "Dream Lover",
+      "weight": 3
+    },
+    {
+      "actor_name": "Frederic Lehne",
+      "movie_name": "Dream Lover",
+      "weight": 2
+    },
+    {
+      "actor_name": "Larry Miller",
+      "movie_name": "Dream Lover",
+      "weight": 1
+    },
+    {
+      "actor_name": "Jack Nicholson",
+      "movie_name": "Wolf",
+      "weight": 5
+    },
+    {
+      "actor_name": "Michelle Pfeiffer",
+      "movie_name": "Wolf",
+      "weight": 4
+    },
+    {
+      "actor_name": "James Spader",
+      "movie_name": "Wolf",
+      "weight": 3
+    },
+    {
+      "actor_name": "Kate Nelligan",
+      "movie_name": "Wolf",
+      "weight": 2
+    },
+    {
+      "actor_name": "Christopher Plummer",
+      "movie_name": "Wolf",
+      "weight": 1
+    },
+    {
+      "actor_name": "Kurt Russell",
+      "movie_name": "Stargate",
+      "weight": 4
+    },
+    {
+      "actor_name": "James Spader",
+      "movie_name": "Stargate",
+      "weight": 3
+    },
+    {
+      "actor_name": "Jaye Davidson",
+      "movie_name": "Stargate",
+      "weight": 2
+    },
+    {
+      "actor_name": "Viveca Lindfors",
+      "movie_name": "Stargate",
+      "weight": 1
+    },
+    {
+      "actor_name": "Danny Aiello",
+      "movie_name": "2 Days in the Valley",
+      "weight": 11
+    },
+    {
+      "actor_name": "Greg Cruttwell",
+      "movie_name": "2 Days in the Valley",
+      "weight": 10
+    },
+    {
+      "actor_name": "Jeff Daniels",
+      "movie_name": "2 Days in the Valley",
+      "weight": 9
+    },
+    {
+      "actor_name": "Teri Hatcher",
+      "movie_name": "2 Days in the Valley",
+      "weight": 8
+    },
+    {
+      "actor_name": "Glenne Headly",
+      "movie_name": "2 Days in the Valley",
+      "weight": 7
+    },
+    {
+      "actor_name": "Peter Horton",
+      "movie_name": "2 Days in the Valley",
+      "weight": 6
+    },
+    {
+      "actor_name": "Marsha Mason",
+      "movie_name": "2 Days in the Valley",
+      "weight": 5
+    },
+    {
+      "actor_name": "Paul Mazursky",
+      "movie_name": "2 Days in the Valley",
+      "weight": 4
+    },
+    {
+      "actor_name": "James Spader",
+      "movie_name": "2 Days in the Valley",
+      "weight": 3
+    },
+    {
+      "actor_name": "Eric Stoltz",
+      "movie_name": "2 Days in the Valley",
+      "weight": 2
+    },
+    {
+      "actor_name": "Charlize Theron",
+      "movie_name": "2 Days in the Valley",
+      "weight": 1
+    },
+    {
+      "actor_name": "Eric Stoltz",
+      "movie_name": "Keys to Tulsa",
+      "weight": 10
+    },
+    {
+      "actor_name": "Cameron Diaz",
+      "movie_name": "Keys to Tulsa",
+      "weight": 9
+    },
+    {
+      "actor_name": "Randy Graff",
+      "movie_name": "Keys to Tulsa",
+      "weight": 8
+    },
+    {
+      "actor_name": "Mary Tyler Moore",
+      "movie_name": "Keys to Tulsa",
+      "weight": 7
+    },
+    {
+      "actor_name": "James Coburn",
+      "movie_name": "Keys to Tulsa",
+      "weight": 6
+    },
+    {
+      "actor_name": "Deborah Kara Unger",
+      "movie_name": "Keys to Tulsa",
+      "weight": 5
+    },
+    {
+      "actor_name": "Michael Rooker",
+      "movie_name": "Keys to Tulsa",
+      "weight": 4
+    },
+    {
+      "actor_name": "Peter Strauss",
+      "movie_name": "Keys to Tulsa",
+      "weight": 3
+    },
+    {
+      "actor_name": "Joanna Going",
+      "movie_name": "Keys to Tulsa",
+      "weight": 2
+    },
+    {
+      "actor_name": "James Spader",
+      "movie_name": "Keys to Tulsa",
+      "weight": 1
+    },
+    {
+      "actor_name": "James Spader",
+      "movie_name": "Critical Care",
+      "weight": 9
+    },
+    {
+      "actor_name": "Kyra Sedgwick",
+      "movie_name": "Critical Care",
+      "weight": 8
+    },
+    {
+      "actor_name": "Helen Mirren",
+      "movie_name": "Critical Care",
+      "weight": 7
+    },
+    {
+      "actor_name": "Margo Martindale",
+      "movie_name": "Critical Care",
+      "weight": 6
+    },
+    {
+      "actor_name": "Jeffrey Wright",
+      "movie_name": "Critical Care",
+      "weight": 5
+    },
+    {
+      "actor_name": "Wallace Shawn",
+      "movie_name": "Critical Care",
+      "weight": 4
+    },
+    {
+      "actor_name": "Anne Bancroft",
+      "movie_name": "Critical Care",
+      "weight": 3
+    },
+    {
+      "actor_name": "Albert Brooks",
+      "movie_name": "Critical Care",
+      "weight": 2
+    },
+    {
+      "actor_name": "Philip Bosco",
+      "movie_name": "Critical Care",
+      "weight": 1
+    },
+    {
+      "actor_name": "James Spader",
+      "movie_name": "Supernova",
+      "weight": 7
+    },
+    {
+      "actor_name": "Angela Bassett",
+      "movie_name": "Supernova",
+      "weight": 6
+    },
+    {
+      "actor_name": "Robert Forster",
+      "movie_name": "Supernova",
+      "weight": 5
+    },
+    {
+      "actor_name": "Lou Diamond Phillips",
+      "movie_name": "Supernova",
+      "weight": 4
+    },
+    {
+      "actor_name": "Peter Facinelli",
+      "movie_name": "Supernova",
+      "weight": 3
+    },
+    {
+      "actor_name": "Robin Tunney",
+      "movie_name": "Supernova",
+      "weight": 2
+    },
+    {
+      "actor_name": "Wilson Cruz",
+      "movie_name": "Supernova",
+      "weight": 1
+    },
+    {
+      "actor_name": "James Spader",
+      "movie_name": "The Watcher",
+      "weight": 5
+    },
+    {
+      "actor_name": "Marisa Tomei",
+      "movie_name": "The Watcher",
+      "weight": 4
+    },
+    {
+      "actor_name": "Ernie Hudson",
+      "movie_name": "The Watcher",
+      "weight": 3
+    },
+    {
+      "actor_name": "Chris Ellis",
+      "movie_name": "The Watcher",
+      "weight": 2
+    },
+    {
+      "actor_name": "Keanu Reeves",
+      "movie_name": "The Watcher",
+      "weight": 1
+    },
+    {
+      "actor_name": "James Spader",
+      "movie_name": "Secretary",
+      "weight": 2
+    },
+    {
+      "actor_name": "Maggie Gyllenhaal",
+      "movie_name": "Secretary",
+      "weight": 1
+    },
+    {
+      "actor_name": "Jon Cryer",
+      "movie_name": "Shorts",
+      "weight": 6
+    },
+    {
+      "actor_name": "William H. Macy",
+      "movie_name": "Shorts",
+      "weight": 5
+    },
+    {
+      "actor_name": "Leslie Mann",
+      "movie_name": "Shorts",
+      "weight": 4
+    },
+    {
+      "actor_name": "James Spader",
+      "movie_name": "Shorts",
+      "weight": 3
+    },
+    {
+      "actor_name": "Jimmy Bennett",
+      "movie_name": "Shorts",
+      "weight": 2
+    },
+    {
+      "actor_name": "Kat Dennings",
+      "movie_name": "Shorts",
+      "weight": 1
+    },
+    {
+      "actor_name": "Daniel Day-Lewis",
+      "movie_name": "Lincoln",
+      "weight": 7
+    },
+    {
+      "actor_name": "Sally Field",
+      "movie_name": "Lincoln",
+      "weight": 6
+    },
+    {
+      "actor_name": "David Strathairn",
+      "movie_name": "Lincoln",
+      "weight": 5
+    },
+    {
+      "actor_name": "Joseph Gordon-Levitt",
+      "movie_name": "Lincoln",
+      "weight": 4
+    },
+    {
+      "actor_name": "James Spader",
+      "movie_name": "Lincoln",
+      "weight": 3
+    },
+    {
+      "actor_name": "Hal Holbrook",
+      "movie_name": "Lincoln",
+      "weight": 2
+    },
+    {
+      "actor_name": "Tommy Lee Jones",
+      "movie_name": "Lincoln",
+      "weight": 1
+    },
+    {
+      "actor_name": "Hilary Swank",
+      "movie_name": "The Homesman",
+      "weight": 2
+    },
+    {
+      "actor_name": "Meryl Streep",
+      "movie_name": "The Homesman",
+      "weight": 1
+    }
+  ]
+}
